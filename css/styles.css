@@ -180,14 +180,40 @@
 @keyframes flame {
     0%, 100% {
         transform: scale(1) rotate(0deg);
+        filter: brightness(1);
+    }
+    25% {
+        transform: scale(1.05) rotate(-3deg);
+        filter: brightness(1.1);
     }
     50% {
-        transform: scale(1.1) rotate(5deg);
+        transform: scale(1.1) rotate(3deg);
+        filter: brightness(1.2);
+    }
+    75% {
+        transform: scale(1.05) rotate(-3deg);
+        filter: brightness(1.1);
     }
 }
 
 .streak-flame {
-    animation: flame 0.8s ease-in-out infinite;
+    animation: flame 1.5s ease-in-out infinite;
+    display: inline-block;
+}
+
+/* Hero card gradient animation */
+@keyframes gradientShift {
+    0%, 100% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+}
+
+.hero-gradient {
+    background-size: 200% 200%;
+    animation: gradientShift 8s ease infinite;
 }
 
 /* Flashcard flip animation */
