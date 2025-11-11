@@ -383,29 +383,29 @@ const Pages = {
                     </div>
 
                     <!-- Navigation Buttons -->
-                    <div class="flex items-center justify-between mt-8 pt-6 border-t border-gray-200 dark:border-gray-700">
+                    <div class="flex items-center justify-between gap-4 mt-8 pt-6 border-t border-gray-200 dark:border-gray-700">
                         <button
                             onclick="app.previousQuestion()"
-                            class="btn btn-secondary flex items-center"
+                            class="btn btn-secondary btn-quiz-nav flex items-center justify-center"
                             ${progress.current === 1 ? 'disabled' : ''}
                         >
-                            <i class="fas fa-arrow-left mr-2"></i> Previous
+                            <i class="fas fa-arrow-left mr-3"></i> Previous
                         </button>
 
                         <button
                             onclick="app.toggleFavorite()"
-                            class="p-3 rounded-xl ${isFavorite ? 'bg-yellow-500 text-white' : 'bg-gray-200 dark:bg-gray-700 text-gray-600 dark:text-gray-400'} hover:scale-110 transition-all"
+                            class="p-5 md:p-6 rounded-2xl ${isFavorite ? 'bg-yellow-500 text-white' : 'bg-gray-200 dark:bg-gray-700 text-gray-600 dark:text-gray-400'} hover:scale-110 transition-all shadow-xl hover:shadow-2xl"
                         >
-                            <i class="fas fa-heart text-xl"></i>
+                            <i class="fas fa-heart text-3xl md:text-4xl"></i>
                         </button>
 
                         <button
                             id="nextButton"
                             onclick="app.nextQuestion()"
-                            class="btn btn-primary flex items-center"
+                            class="btn btn-primary btn-quiz-nav flex items-center justify-center"
                             disabled
                         >
-                            ${progress.current === progress.total ? 'Finish' : 'Next'} <i class="fas fa-arrow-right ml-2"></i>
+                            ${progress.current === progress.total ? 'Finish' : 'Next'} <i class="fas fa-arrow-right ml-3"></i>
                         </button>
                     </div>
                 </div>
