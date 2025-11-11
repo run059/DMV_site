@@ -151,8 +151,8 @@ const Pages = {
                     </div>
                 </div>
 
-                <!-- Support Section (iOS Style) -->
-                <div class="glass rounded-3xl p-6 shadow-card border-2 border-transparent hover:border-yellow-500/30 transition-all duration-300">
+                <!-- Support Section (iOS Style) - Hidden for now -->
+                <div class="hidden glass rounded-3xl p-6 shadow-card border-2 border-transparent hover:border-yellow-500/30 transition-all duration-300">
                     <div class="flex items-start space-x-4">
                         <div class="flex-shrink-0">
                             <div class="w-14 h-14 rounded-2xl bg-gradient-to-br from-yellow-400 via-orange-400 to-pink-500 flex items-center justify-center shadow-lg">
