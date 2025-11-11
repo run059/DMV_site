@@ -15,39 +15,75 @@ const Pages = {
 
         return `
             <div class="space-y-6 pb-20 md:pb-6">
-                <!-- Welcome Section -->
-                <div class="glass rounded-3xl p-6 shadow-card">
-                    <div class="flex items-center justify-between">
-                        <div>
-                            <h2 class="text-2xl font-bold gradient-text">Welcome Back!</h2>
-                            <p class="text-gray-600 dark:text-gray-400 mt-1">Ready to ace your DMV test?</p>
+                <!-- Hero Card (iOS Style) -->
+                <div class="relative overflow-hidden rounded-3xl p-8 shadow-2xl bg-gradient-to-br from-blue-600 via-blue-700 to-purple-700">
+                    <!-- Background Pattern -->
+                    <div class="absolute inset-0 opacity-10">
+                        <div class="absolute top-0 right-0 w-64 h-64 bg-white rounded-full blur-3xl"></div>
+                        <div class="absolute bottom-0 left-0 w-48 h-48 bg-white rounded-full blur-2xl"></div>
+                    </div>
+                    
+                    <div class="relative z-10">
+                        <div class="flex items-start justify-between mb-6">
+                            <div class="flex-1">
+                                <h2 class="text-3xl md:text-4xl font-bold text-white mb-3">Progress with confidence</h2>
+                                <p class="text-white/90 text-base md:text-lg max-w-md">Get exam-ready with personalized state lessons and confidence-boosting tips.</p>
+                            </div>
+                            ${streak.currentStreak > 0 ? `
+                            <div class="ml-4 text-center bg-white/20 backdrop-blur-sm rounded-2xl p-4 min-w-[80px]">
+                                <div class="text-5xl streak-flame mb-1">🔥</div>
+                                <p class="text-2xl font-bold text-white">${streak.currentStreak}</p>
+                                <p class="text-xs text-white/80 uppercase tracking-wider">Day Streak</p>
+                            </div>
+                            ` : ''}
                         </div>
-                        ${streak.currentStreak > 0 ? `
-                        <div class="text-center">
-                            <div class="text-4xl streak-flame">🔥</div>
-                            <p class="text-sm font-bold text-gray-700 dark:text-gray-300 mt-1">${streak.currentStreak} Day${streak.currentStreak > 1 ? 's' : ''}</p>
+                        
+                        <!-- Active State Button -->
+                        <div class="mt-6">
+                            <p class="text-white/70 text-sm font-semibold mb-2 uppercase tracking-wide">Active State</p>
+                            <button onclick="app.navigateTo('select-state')" class="group w-full md:w-auto flex items-center space-x-3 bg-white/20 hover:bg-white/30 backdrop-blur-md rounded-2xl px-6 py-4 transition-all duration-300 border border-white/30">
+                                <div class="w-12 h-12 bg-white/30 rounded-xl flex items-center justify-center text-white text-xl font-bold shadow-lg">
+                                    ${selectedState ? selectedState.displayName.substring(0, 2).toUpperCase() : '?'}
+                                </div>
+                                <div class="flex-1 text-left">
+                                    <p class="font-bold text-white text-lg">${stateName}</p>
+                                    <p class="text-white/80 text-sm">${selectedState ? 'Tap to change' : 'Select your state'}</p>
+                                </div>
+                                <i class="fas fa-chevron-right text-white/60 group-hover:text-white/90 transition-colors"></i>
+                            </button>
                         </div>
-                        ` : ''}
                     </div>
                 </div>
 
                 <!-- Quick Stats -->
                 <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
-                    <div class="stat-card">
-                        <div class="text-3xl font-bold text-blue-600 dark:text-blue-400">${stats.totalQuestionsSolved}</div>
-                        <p class="text-sm text-gray-600 dark:text-gray-400 mt-1">Questions</p>
+                    <div class="stat-card bg-gradient-to-br from-blue-50 to-blue-100 dark:from-blue-900/20 dark:to-blue-800/20 border border-blue-200/50 dark:border-blue-700/50">
+                        <div class="flex items-center justify-between mb-2">
+                            <i class="fas fa-question-circle text-blue-600 dark:text-blue-400 text-2xl"></i>
+                            <div class="text-3xl font-bold text-blue-600 dark:text-blue-400">${stats.totalQuestionsSolved}</div>
+                        </div>
+                        <p class="text-sm text-gray-600 dark:text-gray-400 font-medium">Questions Solved</p>
                     </div>
-                    <div class="stat-card">
-                        <div class="text-3xl font-bold text-green-600 dark:text-green-400">${stats.accuracyRate}%</div>
-                        <p class="text-sm text-gray-600 dark:text-gray-400 mt-1">Accuracy</p>
+                    <div class="stat-card bg-gradient-to-br from-green-50 to-green-100 dark:from-green-900/20 dark:to-green-800/20 border border-green-200/50 dark:border-green-700/50">
+                        <div class="flex items-center justify-between mb-2">
+                            <i class="fas fa-bullseye text-green-600 dark:text-green-400 text-2xl"></i>
+                            <div class="text-3xl font-bold text-green-600 dark:text-green-400">${stats.accuracyRate}%</div>
+                        </div>
+                        <p class="text-sm text-gray-600 dark:text-gray-400 font-medium">Accuracy Rate</p>
                     </div>
-                    <div class="stat-card">
-                        <div class="text-3xl font-bold text-purple-600 dark:text-purple-400">${stats.testsTaken}</div>
-                        <p class="text-sm text-gray-600 dark:text-gray-400 mt-1">Tests</p>
+                    <div class="stat-card bg-gradient-to-br from-purple-50 to-purple-100 dark:from-purple-900/20 dark:to-purple-800/20 border border-purple-200/50 dark:border-purple-700/50">
+                        <div class="flex items-center justify-between mb-2">
+                            <i class="fas fa-clipboard-check text-purple-600 dark:text-purple-400 text-2xl"></i>
+                            <div class="text-3xl font-bold text-purple-600 dark:text-purple-400">${stats.testsTaken}</div>
+                        </div>
+                        <p class="text-sm text-gray-600 dark:text-gray-400 font-medium">Tests Taken</p>
                     </div>
-                    <div class="stat-card">
-                        <div class="text-3xl font-bold text-orange-600 dark:text-orange-400">${streak.bestStreak}</div>
-                        <p class="text-sm text-gray-600 dark:text-gray-400 mt-1">Best Streak</p>
+                    <div class="stat-card bg-gradient-to-br from-orange-50 to-orange-100 dark:from-orange-900/20 dark:to-orange-800/20 border border-orange-200/50 dark:border-orange-700/50">
+                        <div class="flex items-center justify-between mb-2">
+                            <i class="fas fa-trophy text-orange-600 dark:text-orange-400 text-2xl"></i>
+                            <div class="text-3xl font-bold text-orange-600 dark:text-orange-400">${streak.bestStreak}</div>
+                        </div>
+                        <p class="text-sm text-gray-600 dark:text-gray-400 font-medium">Best Streak</p>
                     </div>
                 </div>
 
@@ -112,6 +148,25 @@ const Pages = {
                         <div class="text-4xl mb-3">🧠</div>
                         <h3 class="text-lg font-bold mb-1">Smart Review</h3>
                         <p class="text-sm opacity-90">AI-powered</p>
+                    </div>
+                </div>
+
+                <!-- Support Section (iOS Style) -->
+                <div class="glass rounded-3xl p-6 shadow-card border-2 border-transparent hover:border-yellow-500/30 transition-all duration-300">
+                    <div class="flex items-start space-x-4">
+                        <div class="flex-shrink-0">
+                            <div class="w-14 h-14 rounded-2xl bg-gradient-to-br from-yellow-400 via-orange-400 to-pink-500 flex items-center justify-center shadow-lg">
+                                <span class="text-3xl">☕</span>
+                            </div>
+                        </div>
+                        <div class="flex-1">
+                            <h3 class="text-lg font-bold text-gray-900 dark:text-white mb-1">Support the Developer</h3>
+                            <p class="text-sm text-gray-600 dark:text-gray-400 mb-3">Enjoying the app? Buy me a coffee to support continued development and new features!</p>
+                            <button onclick="alert('☕ Coffee support feature coming soon! Thank you for your interest!')" class="inline-flex items-center space-x-2 px-4 py-2 bg-gradient-to-r from-yellow-500 to-orange-500 text-white rounded-xl font-semibold shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300">
+                                <i class="fas fa-heart"></i>
+                                <span>Buy Me a Coffee</span>
+                            </button>
+                        </div>
                     </div>
                 </div>
 
