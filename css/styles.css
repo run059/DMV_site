@@ -76,11 +76,20 @@
 
 /* Large quiz navigation buttons */
 .btn-quiz-nav {
-    @apply px-10 py-6 text-xl font-bold rounded-2xl min-w-[160px] shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:scale-105 active:scale-95;
+    @apply px-12 py-8 text-2xl font-bold rounded-3xl min-w-[180px] shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:scale-105 active:scale-95;
 }
 
 .btn-quiz-nav i {
-    @apply text-3xl;
+    @apply text-4xl;
+}
+
+/* Smaller favorite button */
+.btn-favorite {
+    @apply p-3 md:p-4 rounded-xl hover:scale-110 transition-all shadow-lg hover:shadow-xl;
+}
+
+.btn-favorite i {
+    @apply text-xl md:text-2xl;
 }
 
 .btn-primary {

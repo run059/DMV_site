@@ -394,9 +394,9 @@ const Pages = {
 
                         <button
                             onclick="app.toggleFavorite()"
-                            class="p-5 md:p-6 rounded-2xl ${isFavorite ? 'bg-yellow-500 text-white' : 'bg-gray-200 dark:bg-gray-700 text-gray-600 dark:text-gray-400'} hover:scale-110 transition-all shadow-xl hover:shadow-2xl"
+                            class="btn-favorite ${isFavorite ? 'bg-yellow-500 text-white' : 'bg-gray-200 dark:bg-gray-700 text-gray-600 dark:text-gray-400'}"
                         >
-                            <i class="fas fa-heart text-3xl md:text-4xl"></i>
+                            <i class="fas fa-heart"></i>
                         </button>
 
                         <button
