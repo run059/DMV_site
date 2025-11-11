@@ -74,22 +74,22 @@
     @apply px-6 py-3 rounded-xl font-semibold transition-all duration-200 shadow-md hover:shadow-lg active:scale-95;
 }
 
-/* Large quiz navigation buttons */
+/* Extra large quiz navigation buttons */
 .btn-quiz-nav {
-    @apply px-12 py-8 text-2xl font-bold rounded-3xl min-w-[180px] shadow-xl hover:shadow-2xl transition-all duration-300 transform hover:scale-105 active:scale-95;
+    @apply px-16 py-10 text-3xl font-bold rounded-3xl min-w-[220px] shadow-2xl hover:shadow-3xl transition-all duration-300 transform hover:scale-105 active:scale-95;
 }
 
 .btn-quiz-nav i {
-    @apply text-4xl;
+    @apply text-5xl;
 }
 
-/* Smaller favorite button */
+/* Much smaller favorite button */
 .btn-favorite {
-    @apply p-3 md:p-4 rounded-xl hover:scale-110 transition-all shadow-lg hover:shadow-xl;
+    @apply p-2 md:p-3 rounded-lg hover:scale-110 transition-all shadow-md hover:shadow-lg;
 }
 
 .btn-favorite i {
-    @apply text-xl md:text-2xl;
+    @apply text-base md:text-lg;
 }
 
 .btn-primary {
