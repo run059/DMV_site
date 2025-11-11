@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test - States Loading</title>
+</head>
+<body>
+    <h1>Testing States Index Loading</h1>
+    <div id="result"></div>
+
+    <script>
+        async function testStatesLoading() {
+            const resultDiv = document.getElementById('result');
+
+            try {
+                console.log('Fetching states-index.json...');
+                resultDiv.innerHTML = '<p>Loading...</p>';
+
+                const response = await fetch('data/states-index.json');
+                console.log('Response:', response);
+
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const states = await response.json();
+                console.log('States loaded:', states.length);
+
+                resultDiv.innerHTML = `
+                    <h2>✅ Success!</h2>
+                    <p>Loaded ${states.length} states</p>
+                    <pre>${JSON.stringify(states.slice(0, 3), null, 2)}</pre>
+                `;
+            } catch (error) {
+                console.error('Error:', error);
+                resultDiv.innerHTML = `
+                    <h2>❌ Error!</h2>
+                    <p style="color: red;">${error.message}</p>
+                    <p>Make sure you're running a local server!</p>
+                    <code>python3 -m http.server 8000</code>
+                `;
+            }
+        }
+
+        testStatesLoading();
+    </script>
+</body>
+</html>

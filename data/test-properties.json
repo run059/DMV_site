@@ -1,0 +1,359 @@
+{
+  "Alabama": {
+    "id": 1,
+    "name": "Alabama",
+    "practiceQuestionsPerTest": 20,
+    "simulatorQuestions": 30,
+    "allowedMistakes": 6
+  },
+  "Alaska": {
+    "id": 2,
+    "name": "Alaska",
+    "practiceQuestionsPerTest": 20,
+    "simulatorQuestions": 20,
+    "allowedMistakes": 4
+  },
+  "Arizona": {
+    "id": 3,
+    "name": "Arizona",
+    "practiceQuestionsPerTest": 8,
+    "simulatorQuestions": 30,
+    "allowedMistakes": 6
+  },
+  "Arkansas": {
+    "id": 7,
+    "name": "Arkansas",
+    "practiceQuestionsPerTest": 15,
+    "simulatorQuestions": 25,
+    "allowedMistakes": 5
+  },
+  "California": {
+    "id": 8,
+    "name": "California",
+    "practiceQuestionsPerTest": 14,
+    "simulatorQuestions": 46,
+    "allowedMistakes": 8
+  },
+  "Colorado": {
+    "id": 9,
+    "name": "Colorado",
+    "practiceQuestionsPerTest": 15,
+    "simulatorQuestions": 25,
+    "allowedMistakes": 5
+  },
+  "Connecticut": {
+    "id": 10,
+    "name": "Connecticut",
+    "practiceQuestionsPerTest": 16,
+    "simulatorQuestions": 25,
+    "allowedMistakes": 5
+  },
+  "Delaware": {
+    "id": 11,
+    "name": "Delaware",
+    "practiceQuestionsPerTest": 14,
+    "simulatorQuestions": 30,
+    "allowedMistakes": 6
+  },
+  "DistrictOfColumbia": {
+    "id": 12,
+    "name": "DistrictOfColumbia",
+    "practiceQuestionsPerTest": 16,
+    "simulatorQuestions": 30,
+    "allowedMistakes": 6
+  },
+  "Florida": {
+    "id": 13,
+    "name": "Florida",
+    "practiceQuestionsPerTest": 12,
+    "simulatorQuestions": 50,
+    "allowedMistakes": 10
+  },
+  "Georgia": {
+    "id": 14,
+    "name": "Georgia",
+    "practiceQuestionsPerTest": 9,
+    "simulatorQuestions": 40,
+    "allowedMistakes": 10
+  },
+  "Hawaii": {
+    "id": 15,
+    "name": "Hawaii",
+    "practiceQuestionsPerTest": 20,
+    "simulatorQuestions": 30,
+    "allowedMistakes": 6
+  },
+  "Idaho": {
+    "id": 16,
+    "name": "Idaho",
+    "practiceQuestionsPerTest": 14,
+    "simulatorQuestions": 40,
+    "allowedMistakes": 6
+  },
+  "Illinois": {
+    "id": 17,
+    "name": "Illinois",
+    "practiceQuestionsPerTest": 14,
+    "simulatorQuestions": 35,
+    "allowedMistakes": 7
+  },
+  "Indiana": {
+    "id": 18,
+    "name": "Indiana",
+    "practiceQuestionsPerTest": 6,
+    "simulatorQuestions": 50,
+    "allowedMistakes": 8
+  },
+  "Iowa": {
+    "id": 19,
+    "name": "Iowa",
+    "practiceQuestionsPerTest": 16,
+    "simulatorQuestions": 35,
+    "allowedMistakes": 7
+  },
+  "Kansas": {
+    "id": 20,
+    "name": "Kansas",
+    "practiceQuestionsPerTest": 20,
+    "simulatorQuestions": 25,
+    "allowedMistakes": 5
+  },
+  "Kentucky": {
+    "id": 21,
+    "name": "Kentucky",
+    "practiceQuestionsPerTest": 13,
+    "simulatorQuestions": 40,
+    "allowedMistakes": 8
+  },
+  "Louisiana": {
+    "id": 22,
+    "name": "Louisiana",
+    "practiceQuestionsPerTest": 13,
+    "simulatorQuestions": 40,
+    "allowedMistakes": 8
+  },
+  "Maine": {
+    "id": 23,
+    "name": "Maine",
+    "practiceQuestionsPerTest": 24,
+    "simulatorQuestions": 30,
+    "allowedMistakes": 6
+  },
+  "Maryland": {
+    "id": 24,
+    "name": "Maryland",
+    "practiceQuestionsPerTest": 19,
+    "simulatorQuestions": 25,
+    "allowedMistakes": 2
+  },
+  "Massachusetts": {
+    "id": 25,
+    "name": "Massachusetts",
+    "practiceQuestionsPerTest": 20,
+    "simulatorQuestions": 25,
+    "allowedMistakes": 7
+  },
+  "Michigan": {
+    "id": 26,
+    "name": "Michigan",
+    "practiceQuestionsPerTest": 9,
+    "simulatorQuestions": 50,
+    "allowedMistakes": 10
+  },
+  "Minnesota": {
+    "id": 27,
+    "name": "Minnesota",
+    "practiceQuestionsPerTest": 13,
+    "simulatorQuestions": 40,
+    "allowedMistakes": 8
+  },
+  "Mississippi": {
+    "id": 28,
+    "name": "Mississippi",
+    "practiceQuestionsPerTest": 19,
+    "simulatorQuestions": 30,
+    "allowedMistakes": 6
+  },
+  "Missouri": {
+    "id": 29,
+    "name": "Missouri",
+    "practiceQuestionsPerTest": 19,
+    "simulatorQuestions": 25,
+    "allowedMistakes": 5
+  },
+  "Montana": {
+    "id": 30,
+    "name": "Montana",
+    "practiceQuestionsPerTest": 18,
+    "simulatorQuestions": 33,
+    "allowedMistakes": 6
+  },
+  "Nebraska": {
+    "id": 31,
+    "name": "Nebraska",
+    "practiceQuestionsPerTest": 20,
+    "simulatorQuestions": 25,
+    "allowedMistakes": 5
+  },
+  "Nevada": {
+    "id": 32,
+    "name": "Nevada",
+    "practiceQuestionsPerTest": 11,
+    "simulatorQuestions": 50,
+    "allowedMistakes": 10
+  },
+  "NewHampshire": {
+    "id": 33,
+    "name": "NewHampshire",
+    "practiceQuestionsPerTest": 16,
+    "simulatorQuestions": 40,
+    "allowedMistakes": 8
+  },
+  "NewJersey": {
+    "id": 34,
+    "name": "NewJersey",
+    "practiceQuestionsPerTest": 9,
+    "simulatorQuestions": 50,
+    "allowedMistakes": 10
+  },
+  "NewMexico": {
+    "id": 35,
+    "name": "NewMexico",
+    "practiceQuestionsPerTest": 20,
+    "simulatorQuestions": 25,
+    "allowedMistakes": 7
+  },
+  "NewYork": {
+    "id": 36,
+    "name": "NewYork",
+    "practiceQuestionsPerTest": 20,
+    "simulatorQuestions": 20,
+    "allowedMistakes": 4
+  },
+  "NorthCarolina": {
+    "id": 37,
+    "name": "NorthCarolina",
+    "practiceQuestionsPerTest": 14,
+    "simulatorQuestions": 25,
+    "allowedMistakes": 5
+  },
+  "NorthDakota": {
+    "id": 38,
+    "name": "NorthDakota",
+    "practiceQuestionsPerTest": 20,
+    "simulatorQuestions": 25,
+    "allowedMistakes": 5
+  },
+  "Ohio": {
+    "id": 39,
+    "name": "Ohio",
+    "practiceQuestionsPerTest": 9,
+    "simulatorQuestions": 40,
+    "allowedMistakes": 10
+  },
+  "Oklahoma": {
+    "id": 40,
+    "name": "Oklahoma",
+    "practiceQuestionsPerTest": 20,
+    "simulatorQuestions": 25,
+    "allowedMistakes": 5
+  },
+  "Oregon": {
+    "id": 41,
+    "name": "Oregon",
+    "practiceQuestionsPerTest": 15,
+    "simulatorQuestions": 35,
+    "allowedMistakes": 7
+  },
+  "Pennsylvania": {
+    "id": 42,
+    "name": "Pennsylvania",
+    "practiceQuestionsPerTest": 20,
+    "simulatorQuestions": 18,
+    "allowedMistakes": 3
+  },
+  "RhodeIsland": {
+    "id": 43,
+    "name": "RhodeIsland",
+    "practiceQuestionsPerTest": 20,
+    "simulatorQuestions": 25,
+    "allowedMistakes": 5
+  },
+  "SouthCarolina": {
+    "id": 44,
+    "name": "SouthCarolina",
+    "practiceQuestionsPerTest": 15,
+    "simulatorQuestions": 30,
+    "allowedMistakes": 6
+  },
+  "SouthDakota": {
+    "id": 45,
+    "name": "SouthDakota",
+    "practiceQuestionsPerTest": 20,
+    "simulatorQuestions": 25,
+    "allowedMistakes": 5
+  },
+  "Tennessee": {
+    "id": 46,
+    "name": "Tennessee",
+    "practiceQuestionsPerTest": 15,
+    "simulatorQuestions": 30,
+    "allowedMistakes": 6
+  },
+  "Texas": {
+    "id": 47,
+    "name": "Texas",
+    "practiceQuestionsPerTest": 15,
+    "simulatorQuestions": 30,
+    "allowedMistakes": 6
+  },
+  "Utah": {
+    "id": 48,
+    "name": "Utah",
+    "practiceQuestionsPerTest": 20,
+    "simulatorQuestions": 25,
+    "allowedMistakes": 5
+  },
+  "Vermont": {
+    "id": 49,
+    "name": "Vermont",
+    "practiceQuestionsPerTest": 20,
+    "simulatorQuestions": 20,
+    "allowedMistakes": 4
+  },
+  "Virginia": {
+    "id": 50,
+    "name": "Virginia",
+    "practiceQuestionsPerTest": 8,
+    "simulatorQuestions": 35,
+    "allowedMistakes": 5
+  },
+  "Washington": {
+    "id": 51,
+    "name": "Washington",
+    "practiceQuestionsPerTest": 10,
+    "simulatorQuestions": 40,
+    "allowedMistakes": 8
+  },
+  "WestVirginia": {
+    "id": 52,
+    "name": "WestVirginia",
+    "practiceQuestionsPerTest": 20,
+    "simulatorQuestions": 25,
+    "allowedMistakes": 6
+  },
+  "Wisconsin": {
+    "id": 53,
+    "name": "Wisconsin",
+    "practiceQuestionsPerTest": 14,
+    "simulatorQuestions": 50,
+    "allowedMistakes": 10
+  },
+  "Wyoming": {
+    "id": 54,
+    "name": "Wyoming",
+    "practiceQuestionsPerTest": 24,
+    "simulatorQuestions": 25,
+    "allowedMistakes": 6
+  }
+}

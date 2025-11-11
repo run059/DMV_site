@@ -1,0 +1,4752 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "What does this road sign indicate?",
+    "option1": "Vehicles turning left must yield to bikes entering a right turn lane.",
+    "option2": "Drivers have the right of way over bikes turning left.",
+    "option3": "Motor vehicles entering an exclusive right-turn lane must weave across bicycle traffic in bicycle lanes.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland1"
+  },
+  {
+    "questionNumber": 2,
+    "question": "When they see a yellow X signal, drivers should:",
+    "option1": "come to a complete stop at the marked stop line.",
+    "option2": "turn off the ignition.",
+    "option3": "prepare to leave the lane safely.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland2"
+  },
+  {
+    "questionNumber": 3,
+    "question": "When entering an expressway from the entrance ramp, you should:",
+    "option1": "use the acceleration lane to blend into the traffic.",
+    "option2": "go down to the bottom of the ramp and stop until it is safe to enter the expressway.",
+    "option3": "cross over to the traffic lane as soon as possible.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 4,
+    "question": "When you prepare to make a left turn from a one-way road into a one-way road, you must:",
+    "option1": "move into the right lane, or to the left side of a single lane.",
+    "option2": "move into the left lane, or to the left side of a single lane.",
+    "option3": "move into the right lane, or to the right side of a single lane.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 5,
+    "question": "A defensive driver:",
+    "option1": "knows when it is safe to pass other vehicles.",
+    "option2": "never drives below the speed limit.",
+    "option3": "considers what other drivers might do and is always prepared to act.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 6,
+    "question": "The best way to deal with tailgaters is to:",
+    "option1": "let them pass if it is safe to do so.",
+    "option2": "always keep your eyes focused ahead of your car.",
+    "option3": "flash your brake lights.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 7,
+    "question": "On slippery roads, drivers should:",
+    "option1": "come to a complete stop.",
+    "option2": "leave more space in front of their vehicle.",
+    "option3": "increase their speed to avoid hydroplaning.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 8,
+    "question": "To reduce road rage, you should:",
+    "option1": "use your horn frequently to warn other drivers.",
+    "option2": "always signal your intention when changing lanes.",
+    "option3": "talk on your cell phone while driving.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 9,
+    "question": "Roads are the most slippery:",
+    "option1": "after it has been raining for an hour or more.",
+    "option2": "for the first 2 hours of a rain storm.",
+    "option3": "the first rain after a dry spell.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 10,
+    "question": "Drivers should change lanes:",
+    "option1": "as quickly as possible.",
+    "option2": "gradually and carefully.",
+    "option3": "often.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 11,
+    "question": "Which shape is a speed limit sign?",
+    "option1": "Vertical rectangle",
+    "option2": "Round",
+    "option3": "Pentagon",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 12,
+    "question": "This sign warns drivers that:",
+    "option1": "there is a one lane bridge ahead.",
+    "option2": "the right lane ends.",
+    "option3": "the road ahead is narrow.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland12"
+  },
+  {
+    "questionNumber": 13,
+    "question": "A pedestrian in the crosswalk when the \"DON’T WALK\" signal begins flashing must:",
+    "option1": "go back and wait the “WALK” light",
+    "option2": "stop immediately.",
+    "option3": "finish crossing the street.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland13"
+  },
+  {
+    "questionNumber": 14,
+    "question": "You face a green light, but traffic on the other side of the intersection does not allow you to travel all the way through the intersection. What must you do?",
+    "option1": "Wait for the next green light.",
+    "option2": "Enter the intersection and wait until traffic ahead clears.",
+    "option3": "Wait until traffic ahead clears, so you do not block the intersection.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 15,
+    "question": "This road sign means:",
+    "option1": "There is a detour ahead",
+    "option2": "The highway ahead is being repaired",
+    "option3": "Crossroads ahead",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland15"
+  },
+  {
+    "questionNumber": 16,
+    "question": "This sign tells drivers:",
+    "option1": "they may not turn right or left during the red light.",
+    "option2": "they must wait for the traffic signal to turn green before turning right or left.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland16"
+  },
+  {
+    "questionNumber": 17,
+    "question": "If cars approaching from opposite directions reach an intersection at the same time:",
+    "option1": "a car that turns left must yield to cars that move straight or turn right.",
+    "option2": "a car that moves straight must yield to cars that turn left.",
+    "option3": "a car that turns right must yield to cars that move straight or turn left.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 18,
+    "question": "This road sign means:",
+    "option1": "Stop",
+    "option2": "Yield the right-of-way",
+    "option3": "Traffic signal ahead",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland18"
+  },
+  {
+    "questionNumber": 19,
+    "question": "This sign means:",
+    "option1": "Left turns in both directions of travel are not permitted.",
+    "option2": "Vehicles may only turn left.",
+    "option3": "The center lane is shared for left turns.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland19"
+  },
+  {
+    "questionNumber": 20,
+    "question": "What should you do when an aggressive driver confronts you?",
+    "option1": "Make eye contact.",
+    "option2": "Challenge the aggressive driver with increased speed.",
+    "option3": "Avoid eye contact with the aggressive driver.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 21,
+    "question": "When you prepare to make a left turn from a one-way road into a two-way road, you must:",
+    "option1": "enter the two-way road to the left of its center line.",
+    "option2": "approach the turn in the right lane or from the right side of a single lane.",
+    "option3": "approach the turn in the left lane or from the left side of a single lane.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 22,
+    "question": "When you make a left turn from a one-way road into a one-way road, if the road you enter has two lanes, you:",
+    "option1": "must turn into its left lane.",
+    "option2": "must turn into its right lane.",
+    "option3": "can not turn left.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 23,
+    "question": "What does a flashing red light mean?",
+    "option1": "NO TURN ON RED.",
+    "option2": "The same thing as a stop sign.",
+    "option3": "Drivers may move forward with caution.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland23"
+  },
+  {
+    "questionNumber": 24,
+    "question": "What is a likely effect when you take another drug while you drink alcohol?",
+    "option1": "The effects of the alcohol and the drug are enhanced.",
+    "option2": "There are no effects, unless the drug is prescription only.",
+    "option3": "If the drug is over-the-counter, there are no effects.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 25,
+    "question": "When coming up behind a vehicle stopped at a crosswalk, you:",
+    "option1": "may not pass that vehicle.",
+    "option2": "may pass the vehicle on the right with extreme caution.",
+    "option3": "should go around the vehicle if safe.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 26,
+    "question": "This road sign means:",
+    "option1": "Yield the right-of-way",
+    "option2": "You have the right of way",
+    "option3": "No Passing Zone",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland26"
+  },
+  {
+    "questionNumber": 27,
+    "question": "This road sign warns drivers that:",
+    "option1": "the one-way street or roadway is about to change to two-way traffic.",
+    "option2": "a divided highway is ahead.",
+    "option3": "they are coming to a point where another traffic lane joins the one they are on.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland27"
+  },
+  {
+    "questionNumber": 28,
+    "question": "When passing another car, you have enough room to return to the driving lane when:",
+    "option1": "you are at least 50 feet in front of the vehicle.",
+    "option2": "you can see both headlights of the car you passed in your rearview mirror.",
+    "option3": "you cannot see the vehicle directly to your right.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 29,
+    "question": "The ‘Slower Traffic Keep Right’ sign is used:",
+    "option1": "at most intersections.",
+    "option2": "in school zones.",
+    "option3": "on multiple lane highways.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 30,
+    "question": "When children are close, what should you do before you back out of a driveway?",
+    "option1": "Rely on your mirrors.",
+    "option2": "Look through your back window for children.",
+    "option3": "Get out of the car and check behind the car.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 31,
+    "question": "Drivers should use high beam headlights when:",
+    "option1": "following another vehicle.",
+    "option2": "there are no oncoming vehicles approaching.",
+    "option3": "when they come within 50 feet of an oncoming vehicle.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 32,
+    "question": "You may drive faster than the posted speed limit:",
+    "option1": "Under no circumstances.",
+    "option2": "when passing another vehicle, as long as it is safe to do so.",
+    "option3": "when your lane is empty.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 33,
+    "question": "Blind spots around a large vehicle are _________________ than the blind spots around a car.",
+    "option1": "less dangerous",
+    "option2": "narrower and shorter",
+    "option3": "larger and deeper",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 34,
+    "question": "A thumping sound can be a warning:",
+    "option1": "that a tire blowout is about to occur.",
+    "option2": "of a steering failure.",
+    "option3": "of a brake failure.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 35,
+    "question": "This sign tells drivers that:",
+    "option1": "there is a right turn ahead.",
+    "option2": "a divided highway ends ahead.",
+    "option3": "they must stay on the right side of the divider",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland35"
+  },
+  {
+    "questionNumber": 36,
+    "question": "Alcohol:",
+    "option1": "increases reaction time.",
+    "option2": "makes drivers more prone to take chances.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 37,
+    "question": "What does a flashing yellow light mean?",
+    "option1": "The same thing as a stop sign.",
+    "option2": "Drivers may move forward with caution.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland37"
+  },
+  {
+    "questionNumber": 38,
+    "question": "This road sign means:",
+    "option1": "Right turn on red light permitted",
+    "option2": "Stop Sign Ahead",
+    "option3": "No Right Turn",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland38"
+  },
+  {
+    "questionNumber": 39,
+    "question": "The yield sign means:",
+    "option1": "If the way is clear, you may move forward slowly without stopping.",
+    "option2": "Go. The light will soon be red.",
+    "option3": "Stop if you can.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland39"
+  },
+  {
+    "questionNumber": 40,
+    "question": "What should you do if your rear wheels start to skid?",
+    "option1": "Turn the steering wheel in the direction the vehicle is trying to go.",
+    "option2": "If the vehicle has ABS, pump the pedal carefully.",
+    "option3": "Steer left if your rear wheels slide right.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 41,
+    "question": "To drive defensively you should:",
+    "option1": "keep your eyes moving to look for possible hazards.",
+    "option2": "look only at the car in front of you while driving.",
+    "option3": "always put one car length between you and the car ahead.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 42,
+    "question": "This sign means:",
+    "option1": "The road will curve to the right, then to the left.",
+    "option2": "Winding road ahead. Drive with caution.",
+    "option3": "Road slippery when wet. Drive slowly.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland42"
+  },
+  {
+    "questionNumber": 43,
+    "question": "This road sign means:",
+    "option1": "Highway entrance ramp ahead",
+    "option2": "Lane reduction - the left lane ends soon",
+    "option3": "Lane reduction - the right lane ends soon",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland43"
+  },
+  {
+    "questionNumber": 44,
+    "question": "A driver who is being passed on the right and the left by many vehicles while driving in the center lane of an highway should:",
+    "option1": "take the next exit.",
+    "option2": "move to the lane on their right.",
+    "option3": "move to the lane on their left.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 45,
+    "question": "On average, how long does it take your body to remove the alcohol contained in 5 ounces of wine?",
+    "option1": "30 minutes.",
+    "option2": "3 hours.",
+    "option3": "one hour.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 46,
+    "question": "This sign means:",
+    "option1": "The divided highway on which drivers are traveling ends ahead.",
+    "option2": "Drivers are coming to a point where another traffic lane joins the one they are on.",
+    "option3": "A road crosses the main highway ahead.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland46"
+  },
+  {
+    "questionNumber": 47,
+    "question": "What does the pictured signal indicate?",
+    "option1": "Pedestrians may turn right.",
+    "option2": "A pedestrian may begin crossing the street.",
+    "option3": "A pedestrian may not not begin crossing the street.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland47"
+  },
+  {
+    "questionNumber": 48,
+    "question": "This sign means:",
+    "option1": "Reversible lane ahead.",
+    "option2": "The divided highway ends ahead.",
+    "option3": "Drivers are coming to a point where another traffic lane joins the one they are on.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland48"
+  },
+  {
+    "questionNumber": 49,
+    "question": "A flashing yellow light:",
+    "option1": "warns drivers to proceed with caution.",
+    "option2": "is used at dangerous intersections.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland49"
+  },
+  {
+    "questionNumber": 50,
+    "question": "This road sign means:",
+    "option1": "Right lane ends",
+    "option2": "Highway entrance ramp ahead",
+    "option3": "Left lane widens",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland50"
+  },
+  {
+    "questionNumber": 51,
+    "question": "How can you prevent fatigue on a long trip?",
+    "option1": "Plan to drive long trips with a companion.",
+    "option2": "Get enough sleep.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 52,
+    "question": "Two drivers reach an uncontrolled intersection at the same time. Who has the right of way?",
+    "option1": "The driver on the right.",
+    "option2": "The driver on the left.",
+    "option3": "No one.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 53,
+    "question": "At a crosswalk:",
+    "option1": "construction workers must yield to drivers.",
+    "option2": "pedestrians must yield to drivers.",
+    "option3": "drivers must yield to pedestrians.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 54,
+    "question": "This sign means:",
+    "option1": "Roundabout ahead. Slow down.",
+    "option2": "The highway ahead is divided into two one-way roadways.",
+    "option3": "The divided highway on which drivers are traveling ends ahead.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland54"
+  },
+  {
+    "questionNumber": 55,
+    "question": "A crosswalk is:",
+    "option1": "the area where pedestrians may cross the road.",
+    "option2": "an area designated for blind persons.",
+    "option3": "a special type of 4-way intersection.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 56,
+    "question": "Which signs have black letters on a white background?",
+    "option1": "Warning signs (diamond)",
+    "option2": "Guide signs (horizontal rectangle)",
+    "option3": "Regulatory signs (vertical rectangle)",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 57,
+    "question": "This regulatory sign tells drivers that:",
+    "option1": "all vehicles must turn left immediately.",
+    "option2": "traffic in the right lane must go straight.",
+    "option3": "traffic in the left lane must turn left at the intersection ahead.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland57"
+  },
+  {
+    "questionNumber": 58,
+    "question": "When a school bus is picking up or dropping off children, you must:",
+    "option1": "stop if you are driving in the same direction.",
+    "option2": "stop regardless of your direction of travel.",
+    "option3": "slow down and pass the bus with caution.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 59,
+    "question": "The yield sign means:",
+    "option1": "Drive with caution in wet weather.",
+    "option2": "You must come to a complete stop.",
+    "option3": "Slow down and give vehicles crossing your path the right-of-way.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland59"
+  },
+  {
+    "questionNumber": 60,
+    "question": "This road sign means:",
+    "option1": "Do not use your brakes in this area",
+    "option2": "Slippery when wet",
+    "option3": "Warning, curves ahead",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland60"
+  },
+  {
+    "questionNumber": 61,
+    "question": "To make an emergency stop while driving on an interstate, you should:",
+    "option1": "get out of the vehicle use hand signals to stop oncoming vehicles.",
+    "option2": "pull off the road, turn on your emergency flashers and stay in your vehicle if possible.",
+    "option3": "sound the horn and pull off the road.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 62,
+    "question": "These are:",
+    "option1": "speed limit signs.",
+    "option2": "route signs.",
+    "option3": "miles-left signs.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland62"
+  },
+  {
+    "questionNumber": 63,
+    "question": "This road sign means:",
+    "option1": "Crossroads ahead",
+    "option2": "No U-Turn",
+    "option3": "Railroad Warning",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland63"
+  },
+  {
+    "questionNumber": 64,
+    "question": "You are driving in the far right lane of a four lane freeway and notice broken white lines on the left side of your lane. You are driving:",
+    "option1": "on the entrance ramp.",
+    "option2": "in an exit lane.",
+    "option3": "in a special lane for slow moving vehicles.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 65,
+    "question": "When they see this sign, drivers:",
+    "option1": "need to be prepared to turn right and then left quickly.",
+    "option2": "should be prepared to make sharp turns at a high speed.",
+    "option3": "should not speed up or brake quickly.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland65"
+  },
+  {
+    "questionNumber": 66,
+    "question": "This sign indicates that:",
+    "option1": "there is a side road ahead",
+    "option2": "there is a steep hill ahead.",
+    "option3": "trucks are merging from the right",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland66"
+  },
+  {
+    "questionNumber": 67,
+    "question": "Gauging the speed of a motorcycle may be difficult because:",
+    "option1": "motorcycles often slow down by downshifting.",
+    "option2": "motorcycles take up less of your field of vision.",
+    "option3": "many motorcyclists do not activate the brake light.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 68,
+    "question": "What should you do if your headlights suddenly go out?",
+    "option1": "Ease your foot off the gas pedal and brake gently.",
+    "option2": "Use your emergency lights, parking lights or directional signals.",
+    "option3": "Brake immediately and activate your emergency lights.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 69,
+    "question": "If an approaching driver does not dim the headlights, you should:",
+    "option1": "flash your headlights to high beam for a second, then return to low beam.",
+    "option2": "move your eyes to the left to help avoid the glare of approaching high beams.",
+    "option3": "flash your headlights to low beam for a second, then return to high beam.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 70,
+    "question": "Aggressive driving includes:",
+    "option1": "quick lane changes without a signal.",
+    "option2": "All of the above.",
+    "option3": "chasing or challenging other drivers.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 71,
+    "question": "Road signs that point out scenic areas and parks are:",
+    "option1": "black and orange.",
+    "option2": "brown and white.",
+    "option3": "green and white.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 72,
+    "question": "Which shape is a stop sign?",
+    "option1": "Upside-down triangle",
+    "option2": "Diamond",
+    "option3": "Octagon",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 73,
+    "question": "Which of the following substances can affect the ability to drive?",
+    "option1": "Cold tablets containing codeine or antihistamines.",
+    "option2": "Tranquilizers and sedatives.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 74,
+    "question": "When changing lanes:",
+    "option1": "change lane before checking the inside rearview mirror.",
+    "option2": "look over your shoulder to make sure no one is in the blind spot.",
+    "option3": "slow down and check your left mirror.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 75,
+    "question": "On what three conditions does your blood alcohol content (BAC) depend?",
+    "option1": "Your height. How much alcohol you drink. The type of beverage you drink.",
+    "option2": "Your weight. How much alcohol you drink. How much time passes between drinks.",
+    "option3": "Your weight. The type of beverage you drink. How fit you are.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 76,
+    "question": "A 4-way stop sign means:",
+    "option1": "The first vehicle to reach the intersection should move forward first.",
+    "option2": "There are four stop signs at the intersection.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland76"
+  },
+  {
+    "questionNumber": 77,
+    "question": "Are drivers allowed to exceed the speed limit to pass other vehicles?",
+    "option1": "No.",
+    "option2": "Yes, but only by 10 MPH or less.",
+    "option3": "Yes, but only if they drive with caution.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 78,
+    "question": "Driving under the influence of any medication which impairs your driving ability is permitted:",
+    "option1": "if you dont feel drowsy.",
+    "option2": "if it is prescribed by a physician.",
+    "option3": "under no circumstances.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 79,
+    "question": "What is the first thing you should do if your wheels move off the pavement?",
+    "option1": "Ease your foot off the gas pedal and brake gently.",
+    "option2": "Pull over to the right and sound your horn to warn the other drivers.",
+    "option3": "Pull the steering wheel back.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 80,
+    "question": "This road sign warns drivers that:",
+    "option1": "the road will make a sharp turn to the right.",
+    "option2": "another road enters the highway from the direction shown.",
+    "option3": "left turns are not allowed at the intersection.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland80"
+  },
+  {
+    "questionNumber": 81,
+    "question": "Where must a pedestrian walk when there are no sidewalks?",
+    "option1": "In the middle of the road, facing oncoming traffic.",
+    "option2": "On the side of the road, facing the traffic.",
+    "option3": "On the side of the road, in the same direction of traffic.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 82,
+    "question": "When you see a funeral procession:",
+    "option1": "you must pass the procession on the right on a multiple lane highway.",
+    "option2": "you must yield the right-of-way to any vehicles in the procession.",
+    "option3": "wait for a gap in the funeral procession to proceed.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 83,
+    "question": "A solid yellow line next to a broken yellow line means that vehicles:",
+    "option1": "next to the solid line may pass.",
+    "option2": "next to the broken line may pass.",
+    "option3": "in both directions may pass.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 84,
+    "question": "The traffic light is green and you want to drive straight through an intersection. If a car is already in the intersection and is making a turn, you must:",
+    "option1": "drive through the intersection. You have the right-of-way.",
+    "option2": "let that car complete its turn before you enter the intersection.",
+    "option3": "enter the intersection and then stop.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 85,
+    "question": "Which statement about drinking alcohol and driving is true?",
+    "option1": "If you are under the legal BAC limit, your driving is not affected.",
+    "option2": "After drinking, a cold shower will sober you up.",
+    "option3": "Alcohol affects judgement and coordination, which are needed to drive safely.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 86,
+    "question": "This road sign means:",
+    "option1": "You must travel at the speed indicated",
+    "option2": "The maximum speed limit under ideal conditions",
+    "option3": "None of the above",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland86"
+  },
+  {
+    "questionNumber": 87,
+    "question": "As you drive on the expressway, make sure:",
+    "option1": "your directional signal goes off before you change lanes.",
+    "option2": "you cut off vehicles behind you when you change lanes.",
+    "option3": "to signal all lane changes.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 88,
+    "question": "What do flashing red lights on a school bus indicate?",
+    "option1": "The bus is stopped to load or discharge passengers.",
+    "option2": "Traffic that approaches from either direction may proceed.",
+    "option3": "The bus is about to stop.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 89,
+    "question": "What should you do if your vision through the windshield becomes blocked?",
+    "option1": "Open the side window so you can see.",
+    "option2": "Turn on your emergency lights.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 90,
+    "question": "What type of pavement marking shows you which lane you must use for a turn?",
+    "option1": "Edge line",
+    "option2": "Arrows",
+    "option3": "Diamond",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 91,
+    "question": "Aggressive driving behaviors can include:",
+    "option1": "a tendency to drive slow.",
+    "option2": "erratic lane changes.",
+    "option3": "excessive following distance.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 92,
+    "question": "You can reduce the chance of a collision with a large vehicle if you:",
+    "option1": "pay close attention to the turn signals.",
+    "option2": "delay near it.",
+    "option3": "cut abruptly in front of it.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 93,
+    "question": "Continuous hard braking on ice and snow often:",
+    "option1": "is the best option during winter.",
+    "option2": "causes the front wheels to lock.",
+    "option3": "keeps the brakes from freezing.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 94,
+    "question": "If you are continually being passed on the right, you should:",
+    "option1": "move into the right lane and allow other vehicles to pass you on the left.",
+    "option2": "increase your speed immediately.",
+    "option3": "move into the left lane and allow other vehicles to pass you on the right.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 95,
+    "question": "When you are angry or upset you should:",
+    "option1": "drive fast to let off steam.",
+    "option2": "listen to loud music while driving.",
+    "option3": "take a few minutes to cool off before you drive.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 96,
+    "question": "The driver of an emergency vehicle that uses lights and a siren can legally:",
+    "option1": "pass red lights.",
+    "option2": "exceed the speed limit",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 97,
+    "question": "Your car stalls on the tracks at a railroad crossing, and a collision with a train is imminent. After getting yourself and your passengers out of the car, you should:",
+    "option1": "cross the tracks.",
+    "option2": "signal the train to stop.",
+    "option3": "run toward the train but stay off the tracks.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 98,
+    "question": "What should you do in case of a brake failure?",
+    "option1": "Pull off the road into an open space, if available.",
+    "option2": "Apply the parking brake slowly.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 99,
+    "question": "This road sign means:",
+    "option1": "Merging traffic",
+    "option2": "Lane shifting",
+    "option3": "Do not block intersection",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland99"
+  },
+  {
+    "questionNumber": 100,
+    "question": "To make a proper right turn:",
+    "option1": "swing to the left before turning right.",
+    "option2": "slow down and get into the lane nearest the centerline.",
+    "option3": "give the proper signal and get into the lane nearest the right curb.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 101,
+    "question": "Implied Consent means that:",
+    "option1": "fielding sobriety tests is not required in your State.",
+    "option2": "you may refuse to take a breath or blood alcohol test if you are arrested by a an officer.",
+    "option3": "when you apply for a driver1s license, you give consent to field sobriety tests and chemical tests if asked by an officer.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 102,
+    "question": "What should drivers do when they see this sign?",
+    "option1": "Allow others to merge smoothly.",
+    "option2": "Look to the left and right for other traffic.",
+    "option3": "Make sure the bridge is clear of oncoming traffic before they cross.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland102"
+  },
+  {
+    "questionNumber": 103,
+    "question": "This road sign means:",
+    "option1": "No right turn",
+    "option2": "Do not pass",
+    "option3": "No U-turns",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland103"
+  },
+  {
+    "questionNumber": 104,
+    "question": "This yellow sign means:",
+    "option1": "Merging traffic ahead",
+    "option2": "Undivided highway ahead",
+    "option3": "Lane ends ahead",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland104"
+  },
+  {
+    "questionNumber": 105,
+    "question": "Vertical rectangles tell drivers:",
+    "option1": "the direction they should travel.",
+    "option2": "what is not allowed.",
+    "option3": "the law.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland105"
+  },
+  {
+    "questionNumber": 106,
+    "question": "This road sign means:",
+    "option1": "Bicycle crossing",
+    "option2": "This lane is reserved for bicyclists",
+    "option3": "Bicycles have the right-of-way",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland106"
+  },
+  {
+    "questionNumber": 107,
+    "question": "In the following situations, drivers should increase their following interval:",
+    "option1": "When following vehicles that are required to come to a stop at railroad crossings.",
+    "option2": "When it is hard to see ahead because of bad weather.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 108,
+    "question": "Having a drivers license is:",
+    "option1": "a privilege.",
+    "option2": "a constitutional right.",
+    "option3": "a requirement.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 109,
+    "question": "This road sign means:",
+    "option1": "A four-way intersection is ahead",
+    "option2": "A steep grade is ahead",
+    "option3": "Do not pass",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland109"
+  },
+  {
+    "questionNumber": 110,
+    "question": "Before entering a curve, you should:",
+    "option1": "reduce your speed.",
+    "option2": "activate your turn signal.",
+    "option3": "pump your brakes several times.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 111,
+    "question": "This road sign means the road you are driving on:",
+    "option1": "turns sharply to the left and then right",
+    "option2": "turns only to the left",
+    "option3": "turns to the right and then the left",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland111"
+  },
+  {
+    "questionNumber": 112,
+    "question": "This road sign means:",
+    "option1": "Right lane closed",
+    "option2": "Flagger ahead",
+    "option3": "Do not block intersection",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland112"
+  },
+  {
+    "questionNumber": 113,
+    "question": "If the entrance lane is too short to allow acceleration to highway speed, you should:",
+    "option1": "go to the next entrance ramp.",
+    "option2": "stop and wait for a large gap in traffic, then enter the highway and accelerate quickly.",
+    "option3": "merge into highway traffic as soon as possible.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 114,
+    "question": "At a stop sign there is no stop line, you must stop:",
+    "option1": "before you enter the crosswalk.",
+    "option2": "before you enter the intersection.",
+    "option3": "after you enter the crosswalk.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 115,
+    "question": "You are driving and you are feeling drowsy. You should:",
+    "option1": "turn on the radio to keep you awake.",
+    "option2": "find a safe place to stop for a break.",
+    "option3": "avoid drinking coffee.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 116,
+    "question": "What can you do to prevent skids on snow and ice?",
+    "option1": "Allow the wheels to keep turning.",
+    "option2": "Brake early and gently.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 117,
+    "question": "Drivers should be aware that a motorcyclist may:",
+    "option1": "quickly change speed or lane position.",
+    "option2": "decrease speed and rise off the seat when approaching a railroad crossing.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 118,
+    "question": "This road sign means:",
+    "option1": "Hill or downgrade up ahead",
+    "option2": "Truck stop ahead",
+    "option3": "No trucks allowed",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland118"
+  },
+  {
+    "questionNumber": 119,
+    "question": "When approaching a construction site, drivers should:",
+    "option1": "slow down and adjust their driving manner.",
+    "option2": "accelerate to get out of the way quickly.",
+    "option3": "honk their horn to alert construction workers of their presence.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 120,
+    "question": "For protection, motorcyclists are required to:",
+    "option1": "wear approved helmets.",
+    "option2": "signal turns, lane changes and stops.",
+    "option3": "keep their headlights and taillights on at all times.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 121,
+    "question": "Destination signs are ______ with ____ letters and symbols.",
+    "option1": "white; black",
+    "option2": "green; white",
+    "option3": "blue; white",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 122,
+    "question": "You want to turn left at an intersection ahead. A car reaches the intersection from the opposite direction and moves straight ahead. You:",
+    "option1": "must wait for the car to go through before you turn.",
+    "option2": "can turn left. You have the right of way.",
+    "option3": "may not enter the intersection to prepare for your left turn if the light is green.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 123,
+    "question": "When you make a left turn from a one-way road into a two-way road, you must:",
+    "option1": "enter the two-way road to the left of its center line.",
+    "option2": "enter the two-way road to the right of its center line.",
+    "option3": "make a U-turn into the two-way road.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 124,
+    "question": "In 55 MPH traffic you are least likely to be involved in a collision if you:",
+    "option1": "stay within that speed range.",
+    "option2": "drive a few MPH faster than most.",
+    "option3": "drive a few MPH slower than most.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 125,
+    "question": "What do pennant-shaped signs indicate?",
+    "option1": "A school crossing",
+    "option2": "A No Passing Zone",
+    "option3": "Yield",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 126,
+    "question": "The road is the most slippery:",
+    "option1": "after it rains.",
+    "option2": "when it first starts to rain.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 127,
+    "question": "When they approach this sign, drivers must:",
+    "option1": "slow down and watch for children crossing the road.",
+    "option2": "obey signals from crossing guards.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland127"
+  },
+  {
+    "questionNumber": 128,
+    "question": "Your BAC depends on:",
+    "option1": "how much time passes between drinks.",
+    "option2": "how much alcohol you drink.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 129,
+    "question": "This road sign means:",
+    "option1": "Side road",
+    "option2": "Side road entering from the left",
+    "option3": "Yield sign ahead",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland129"
+  },
+  {
+    "questionNumber": 130,
+    "question": "What does a flashing left yellow arrow mean?",
+    "option1": "Vehicles turning left must stop if they can. The light will soon be red.",
+    "option2": "Left turns are allowed. Yield to oncoming traffic and pedestrians.",
+    "option3": "Only right turns are allowed.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland130"
+  },
+  {
+    "questionNumber": 131,
+    "question": "Driver distractions include:",
+    "option1": "turning your headlights on when rain and fog make it hard to see.",
+    "option2": "Avoiding unnecessary lane changes.",
+    "option3": "Slowing down to look at crash scene.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 132,
+    "question": "If your front wheels start to skid, the first thing you should do is:",
+    "option1": "Immediately turn in the direction you want to go.",
+    "option2": "Take your foot off the gas pedal and shift to neutral.",
+    "option3": "Speed up, pump your brakes and steer in the direction the vehicle is trying to go.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 133,
+    "question": "Regulatory signs are:",
+    "option1": "Law",
+    "option2": "Warnings",
+    "option3": "Suggestions",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 134,
+    "question": "Night driving can be more difficult because:",
+    "option1": "vehicle speed and distance are harder to judge.",
+    "option2": "there are more cars on the roads at night.",
+    "option3": "the speed limit is increased at night.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 135,
+    "question": "Where must you position your vehicle when you prepare to make a left turn from a two-way roadway into a one-way roadway?",
+    "option1": "As close as possible to the center line.",
+    "option2": "As far to the right as possible.",
+    "option3": "On the right curb.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 136,
+    "question": "This road sign means:",
+    "option1": "Drivers are about to enter a one way street the wrong way",
+    "option2": "U-turns are prohibited",
+    "option3": "Drivers may proceed if the way is clear",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland136"
+  },
+  {
+    "questionNumber": 137,
+    "question": "Which statement about taking medications and driving is true?",
+    "option1": "Cold medications can make a person drowsy.",
+    "option2": "Over the counter drugs do not affect driving ability.",
+    "option3": "Prescribed drugs are safe to take at any time.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 138,
+    "question": "Regulation signs normally are:",
+    "option1": "white rectangles.",
+    "option2": "green rectangles.",
+    "option3": "white triangles.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 139,
+    "question": "Any use of a cell phone while operating a motor vehicle is considered a distraction because:",
+    "option1": "it occupies the driver1s mind, hands and eyes.",
+    "option2": "it causes the driver to be concerned about the latest news.",
+    "option3": "it draws the attention of other drivers.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 140,
+    "question": "When taking medication while driving, you should:",
+    "option1": "drive 20 MPH below the posted speed limit.",
+    "option2": "follow other vehicles closely.",
+    "option3": "consult your physicians and/or pharmacist regarding any prescription medication and its possible effects on driving.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 141,
+    "question": "In case of skidding, drivers should NOT:",
+    "option1": "take their foot off the gas pedal.",
+    "option2": "pump the brakes gently if they are about to hit something.",
+    "option3": "tap the gas pedal with their foot.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 142,
+    "question": "This road sign means:",
+    "option1": "Merging traffic",
+    "option2": "Steep hill",
+    "option3": "Watch for trucks entering from the side",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland142"
+  },
+  {
+    "questionNumber": 143,
+    "question": "Which shape is a warning sign?",
+    "option1": "Diamond",
+    "option2": "Triangle",
+    "option3": "Pennant",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 144,
+    "question": "Does a vehicle prepared to enter a traffic circle or rotary have right-of-way over vehicles in the circle?",
+    "option1": "Yes.",
+    "option2": "No. Vehicles already in the circle have the right-of-way.",
+    "option3": "Yes, but only if they are entering the rotary from the right lane.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 145,
+    "question": "What should you do in case of a steering failure?",
+    "option1": "Do not panic. Turn on your emergency lights to let other drivers know you are having car problems. Move toward the side of the road and bring the car to a gradual stop.",
+    "option2": "Leave the road immediately.",
+    "option3": "Pump your gas pedal a few times to increase the pressure.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 146,
+    "question": "This road sign means:",
+    "option1": "Reduction in lanes",
+    "option2": "Merge right",
+    "option3": "Stop sign ahead",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland146"
+  },
+  {
+    "questionNumber": 147,
+    "question": "When a hazard is seen ahead, reaction distance:",
+    "option1": "equals total stopping distance minus perception distance.",
+    "option2": "is the sum of perception distance and braking distance.",
+    "option3": "is how far a vehicle will continue to travel, in ideal conditions, before the driver hits the brakes.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 148,
+    "question": "This road sign:",
+    "option1": "provides an advance notice of a roundabout.",
+    "option2": "warns drivers that U-turns are not permitted.",
+    "option3": "warns drivers of a sharp turn left. Drivers should slow their speed and keep to the left.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland148"
+  },
+  {
+    "questionNumber": 149,
+    "question": "Stopping distances:",
+    "option1": "are not affected by vehicle speed.",
+    "option2": "increase as vehicle speed increases.",
+    "option3": "decrease as vehicle speed increases.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 150,
+    "question": "The sign in the picture:",
+    "option1": "shows the highest speed drivers can travel at the exit of the intersection.",
+    "option2": "is used to advise motorists of the appropriate ramp speed at the highway exit point.",
+    "option3": "indicates the minimum ramp speed at the highway exit point.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland150"
+  },
+  {
+    "questionNumber": 151,
+    "question": "This road sign means:",
+    "option1": "Pavement ends",
+    "option2": "Double curve ahead",
+    "option3": "Winding road",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland151"
+  },
+  {
+    "questionNumber": 152,
+    "question": "Yellow traffic signs:",
+    "option1": "when combined with an octagonal shape, tell drivers they must come to a complete stop at the marked stop line.",
+    "option2": "guide drivers.",
+    "option3": "warn drivers.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 153,
+    "question": "Before making a left turn from a one-way street, you must:",
+    "option1": "be in the lane closest to the center of the street.",
+    "option2": "be in the lane closest to the right curb.",
+    "option3": "be in the lane closest to the left curb.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 154,
+    "question": "If you meet a stopped school bus with the lights flashing and the signal arm extended, you should:",
+    "option1": "watch for children and proceed at normal speed.",
+    "option2": "proceed at 15 MPH or less, if no children are present.",
+    "option3": "stop.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 155,
+    "question": "This signal means:",
+    "option1": "Move to the left",
+    "option2": "Stop",
+    "option3": "Slow down",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland155"
+  },
+  {
+    "questionNumber": 156,
+    "question": "What does this sign indicate?",
+    "option1": "The highway ahead is divided into two one-way roadways.",
+    "option2": "Winding road ahead. Drive with caution.",
+    "option3": "Drivers will soon be on a roadway with two-way traffic.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland156"
+  },
+  {
+    "questionNumber": 157,
+    "question": "This road sign means:",
+    "option1": "Four-lane traffic ahead",
+    "option2": "Divided highway ahead",
+    "option3": "Two-way traffic ahead",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland157"
+  },
+  {
+    "questionNumber": 158,
+    "question": "This road sign indicates that:",
+    "option1": "a lane is reserved for certain purposes or certain vehicles.",
+    "option2": "buses and car pools may not travel in the restricted lane.",
+    "option3": "vehicles cannot go straight ahead. Cars must turn either to the right or left.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland158"
+  },
+  {
+    "questionNumber": 159,
+    "question": "The driver is about to:",
+    "option1": "stop.",
+    "option2": "turn right.",
+    "option3": "turn left.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland159"
+  },
+  {
+    "questionNumber": 160,
+    "question": "Parking is not allowed:",
+    "option1": "in a tunnel.",
+    "option2": "on the road side of a parked vehicle.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 161,
+    "question": "A red arrow on a traffic light means:",
+    "option1": "You may not turn in the direction of the arrow until a green light or arrow light goes on.",
+    "option2": "You may turn in in the direction of the arrow after coming to a complete stop.",
+    "option3": "You must stop and then proceed when the way is clear.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 162,
+    "question": "This road sign means:",
+    "option1": "A 3-way intersection is ahead",
+    "option2": "You must bear either right or left",
+    "option3": "A road joins from the left",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland162"
+  },
+  {
+    "questionNumber": 163,
+    "question": "Drivers may need more space in front of their vehicle:",
+    "option1": "when following motorcycles.",
+    "option2": "when carrying a heavy load or pulling a trailer.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 164,
+    "question": "This sign indicates:",
+    "option1": "Warning: drunk drivers.",
+    "option2": "Winding road. Drive with caution.",
+    "option3": "The road may be slippery when wet. Drive slowly.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland164"
+  },
+  {
+    "questionNumber": 165,
+    "question": "Which of the following must you obey over the others?",
+    "option1": "Stop sign",
+    "option2": "Red light",
+    "option3": "Police officer",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 166,
+    "question": "The sign in the picture:",
+    "option1": "is a Construction and Maintenance Traffic Control sign.",
+    "option2": "is found at most intersections and indicates that drivers must yield to other vehicles.",
+    "option3": "is displayed on the rear of slow moving vehicles.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland166"
+  },
+  {
+    "questionNumber": 167,
+    "question": "This sign indicates:",
+    "option1": "Yield",
+    "option2": "A slow-moving vehicle",
+    "option3": "A no-passing zone",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland167"
+  },
+  {
+    "questionNumber": 168,
+    "question": "What does this sign indicate?",
+    "option1": "Low ground clearance railroad crossing",
+    "option2": "Parallel railroad crossing (crossroad)",
+    "option3": "Parallel railroad crossing (side road)",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland168"
+  },
+  {
+    "questionNumber": 169,
+    "question": "When is the pavement most slippery?",
+    "option1": "When it has just begun to rain.",
+    "option2": "If it is been raining several hours.",
+    "option3": "When it is been raining from at least one hour.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 170,
+    "question": "This sign means:",
+    "option1": "Business area nearby. Watch for business people.",
+    "option2": "There is a work zone ahead. Watch for workers.",
+    "option3": "The driver is near a school and should watch for children.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland170"
+  },
+  {
+    "questionNumber": 171,
+    "question": "Unlike passenger cars, trucks have blind spots:",
+    "option1": "directly behind them.",
+    "option2": "on the right.",
+    "option3": "on the front.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 172,
+    "question": "If a traffic officer signals you to drive through a red light:",
+    "option1": "you must wait for the red light to turn green.",
+    "option2": "you must do it.",
+    "option3": "you must not obey the officer. Signs and signals take precedence over directions given by traffic officers.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 173,
+    "question": "When an aggressive driver confronts you, you should:",
+    "option1": "Remain calm and relaxed.",
+    "option2": "Try to move away safely.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 174,
+    "question": "This road sign means:",
+    "option1": "Do not pass on the left.",
+    "option2": "No U-turn",
+    "option3": "Do not enter",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland174"
+  },
+  {
+    "questionNumber": 175,
+    "question": "This road sign means:",
+    "option1": "No left turn",
+    "option2": "No right turn",
+    "option3": "No U-turns",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland175"
+  },
+  {
+    "questionNumber": 176,
+    "question": "Diamond-shaped signs:",
+    "option1": "are used to warn of hazards on roadways.",
+    "option2": "typically provide guidance to drivers.",
+    "option3": "indicate no pass zones.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 177,
+    "question": "A flashing red light:",
+    "option1": "is used at dangerous intersections.",
+    "option2": "means the same thing as a stop sign.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland177"
+  },
+  {
+    "questionNumber": 178,
+    "question": "This road sign means:",
+    "option1": "All traffic must turn",
+    "option2": "Yield sign ahead",
+    "option3": "Warning, crossroad ahead",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland178"
+  },
+  {
+    "questionNumber": 179,
+    "question": "What does this road sign indicate?",
+    "option1": "Interstate highway",
+    "option2": "Hospital service",
+    "option3": "Area reserved for people with disabilities",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland179"
+  },
+  {
+    "questionNumber": 180,
+    "question": "What is the first thing you should do if your wheels move off the pavement?",
+    "option1": "Ease your foot off the gas pedal and brake gently.",
+    "option2": "Pull the steering wheel back.",
+    "option3": "Pull over to the right and sound your horn to warn the other drivers.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 181,
+    "question": "A large vehicle is backing up to unload goods. You should:",
+    "option1": "enter one of the blind spots and wait.",
+    "option2": "be patient and wait until the large vehicle has completed its backup maneuver.",
+    "option3": "try to pass close behind.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 182,
+    "question": "To maintain an adequate \"space cushion\" to the front, drivers need to:",
+    "option1": "control their speed to suit the road and traffic conditions.",
+    "option2": "keep a safe distance between their car and the vehicle in front.",
+    "option3": "The other answers are both correct.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 183,
+    "question": "When turning left at an intersection:",
+    "option1": "you should always yield to oncoming traffic and pedestrians.",
+    "option2": "you should never yield to oncoming traffic and pedestrians.",
+    "option3": "oncoming traffic and pedestrians should yield to you.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 184,
+    "question": "This sign indicates that:",
+    "option1": "the safe speed around the curve ahead is at least 25 MPH.",
+    "option2": "drivers may not turn right if traveling at 25 MPH or less.",
+    "option3": "the highest safe speed drivers should travel around the curve ahead is 25 MPH.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland184"
+  },
+  {
+    "questionNumber": 185,
+    "question": "When you see this sign you should stop and:",
+    "option1": "check traffic in all direction before proceeding.",
+    "option2": "check for vehicles in the opposite direction, then proceed.",
+    "option3": "yield the right-of way to all vehicles coming from the left.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland185"
+  },
+  {
+    "questionNumber": 186,
+    "question": "_________________ your mirrors when you prepare to change lanes.",
+    "option1": "Never use",
+    "option2": "Never depend on",
+    "option3": "Always rely on",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 187,
+    "question": "This road sign means:",
+    "option1": "Steep downgrade",
+    "option2": "You must turn right",
+    "option3": "No right turn",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland187"
+  },
+  {
+    "questionNumber": 188,
+    "question": "This sign warns of a ________ ahead.",
+    "option1": "hill",
+    "option2": "no passing zone",
+    "option3": "soft shoulder",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland188"
+  },
+  {
+    "questionNumber": 189,
+    "question": "This road sign means:",
+    "option1": "Steep grade ahead",
+    "option2": "Merging traffic",
+    "option3": "Intersection ahead",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland189"
+  },
+  {
+    "questionNumber": 190,
+    "question": "When driving on a roadway with a single broken white line:",
+    "option1": "you may not cross the broken white line.",
+    "option2": "you may cross the broken white line to change lanes.",
+    "option3": "you may change lanes only if you are in the right lane.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 191,
+    "question": "Drivers should:",
+    "option1": "know that most drivers obey the right-of-way rules.",
+    "option2": "always be prepared to yield the right-of-way.",
+    "option3": "only be aggressive when drivers do not obey the right-of-way rules.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 192,
+    "question": "The following symptoms are associated with drowsy driving:",
+    "option1": "You continue to yawn.",
+    "option2": "You don’t remember driving the last few miles.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 193,
+    "question": "Your red traffic signal changes to green while a pedestrian is crossing in your traffic lane. The right of way should be given:",
+    "option1": "to the pedestrian.",
+    "option2": "by the pedestrian, but only when vehicles are turning left.",
+    "option3": "by the pedestrian.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 194,
+    "question": "When you see this sign, you should:",
+    "option1": "be prepared to stop if children are in the crosswalk.",
+    "option2": "slow down, proceed with caution and watch for blind people.",
+    "option3": "always stop at the crosswalk.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland194"
+  },
+  {
+    "questionNumber": 195,
+    "question": "A flashing yellow light at an intersection means drivers should:",
+    "option1": "stop and proceed when clear.",
+    "option2": "slow down and proceed with caution.",
+    "option3": "immediately come to a complete stop.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland195"
+  },
+  {
+    "questionNumber": 196,
+    "question": "If the vehicle is equipped with air bags, seat belts:",
+    "option1": "should not be worn.",
+    "option2": "are optional.",
+    "option3": "should still be worn.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 197,
+    "question": "This sign means:",
+    "option1": "Curve ahead, the recommended speed is 40 MPH or less",
+    "option2": "Curve ahead, drive at 40 MPH ot more around the curve ahead",
+    "option3": "If you are driving at 40 MPH or less you must stay in the right-hand lane",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland197"
+  },
+  {
+    "questionNumber": 198,
+    "question": "A vehicle that enters a road from a driveway:",
+    "option1": "has the right-of-way.",
+    "option2": "must stop and yield the right-of-way to traffic on the roadway and to pedestrians.",
+    "option3": "must yield to traffic approaching from the right, while it has the right-of-way over vehicles approaching from the left.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 199,
+    "question": "Which of the following is NOT true about ABS?",
+    "option1": "It improves the steering ability.",
+    "option2": "It improves the vehicle stability.",
+    "option3": "It helps increase your stopping distance.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 200,
+    "question": "What do warning signs mean?",
+    "option1": "Drivers are approaching a location where there is a special rule.",
+    "option2": "Danger ahead.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 201,
+    "question": "Which shape is a yield sign?",
+    "option1": "Vertical rectangle",
+    "option2": "Upside-down triangle",
+    "option3": "Diamond",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 202,
+    "question": "A driver who approaches an intersection:",
+    "option1": "has the right-of-way over traffic already in the intersection.",
+    "option2": "must drive straight through the intersection, even if another vehicle is already in the intersection.",
+    "option3": "must yield the right-of-way to traffic already in the intersection.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 203,
+    "question": "If you remain in the back blind spot of a large vehicle:",
+    "option1": "the large vehicle will take much longer to stop.",
+    "option2": "you can reduce fuel consumption.",
+    "option3": "you increase the chance of a crash.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 204,
+    "question": "To avoid hydroplaning, drivers should:",
+    "option1": "apply the brakes firmly.",
+    "option2": "drive at a constant speed.",
+    "option3": "slow down.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 205,
+    "question": "This sign tells drivers that:",
+    "option1": "they must not make a right turn.",
+    "option2": "they must make a left turn at the intersection.",
+    "option3": "U-turns are not allowed.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland205"
+  },
+  {
+    "questionNumber": 206,
+    "question": "A steady yellow light means:",
+    "option1": "Drive with caution.",
+    "option2": "Be prepared to go. The light will soon be green.",
+    "option3": "Be prepared to stop for the red light.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 207,
+    "question": "Before a school bus stops to load passengers, the driver will usually flash:",
+    "option1": "red warning lights.",
+    "option2": "yellow warning lights.",
+    "option3": "red lights.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 208,
+    "question": "You must come to a full stop at a yield sign:",
+    "option1": "Always.",
+    "option2": "Never.",
+    "option3": "If traffic conditions require it.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 209,
+    "question": "It is 10 AM. This sign tells you that:",
+    "option1": "you are not allowed to park here.",
+    "option2": "you are allowed to park until 5:30 PM.",
+    "option3": "you must display a special permit in order to park here.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland209"
+  },
+  {
+    "questionNumber": 210,
+    "question": "Drivers may legally block an intersection:",
+    "option1": "only during rush hour traffic.",
+    "option2": "under no circumstances.",
+    "option3": "only after entering the intersection on a green light.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 211,
+    "question": "When a ‘Road Closed’ sign is displayed, drivers must:",
+    "option1": "make a U-turn.",
+    "option2": "look for a detour or another route.",
+    "option3": "come to a complete stop and wait for the lights to turn green.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 212,
+    "question": "__________ are blue with white letters and symbols.",
+    "option1": "Destination signs (guide signs)",
+    "option2": "Service signs",
+    "option3": "Warning signs",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 213,
+    "question": "The shape of a route sign tells you:",
+    "option1": "the type of route you are on.",
+    "option2": "the speed limit on that route.",
+    "option3": "that the route you are on might be dangerous.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 214,
+    "question": "A curb painted red means:",
+    "option1": "No parking or stopping",
+    "option2": "Reserved for passengers pick up or drop off",
+    "option3": "Parking is for disabled persons with a special placard or plate.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 215,
+    "question": "This road sign means:",
+    "option1": "A steep grade is ahead",
+    "option2": "Low clearance",
+    "option3": "Do not enter",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland215"
+  },
+  {
+    "questionNumber": 216,
+    "question": "Where are yield signs usually placed?",
+    "option1": "Where major roads lead into auxiliary roads.",
+    "option2": "Where auxiliary roads lead into major roads.",
+    "option3": "At intersections, if there is no marked stop line.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 217,
+    "question": "When driving in rainy weather, you should:",
+    "option1": "steer off the road.",
+    "option2": "steer and brake smoothly.",
+    "option3": "drive in low gear.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 218,
+    "question": "This sign means:",
+    "option1": "Railroad crossing",
+    "option2": "No Passing Zone",
+    "option3": "The road ends ahead",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland218"
+  },
+  {
+    "questionNumber": 219,
+    "question": "The amount of alcohol in the blood is measured by:",
+    "option1": "blood alcohol concentration (BAC).",
+    "option2": "Amount of Alcohol Drunk (AAD).",
+    "option3": "Number of Drinks (NOC).",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 220,
+    "question": "This road sign means:",
+    "option1": "Slippery when wet",
+    "option2": "Winding road",
+    "option3": "Side road ahead",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland220"
+  },
+  {
+    "questionNumber": 221,
+    "question": "Alcohol:",
+    "option1": "improves your reaction time.",
+    "option2": "makes you less aware of what is happening to your driving abilities.",
+    "option3": "makes it easier to make correct decisions.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 222,
+    "question": "This sign warns that:",
+    "option1": "the bridge ahead is wide enough for only one vehicle at a time.",
+    "option2": "traffic must merge left.",
+    "option3": "traffic must merge right.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland222"
+  },
+  {
+    "questionNumber": 223,
+    "question": "If there is no crosswalk and you see a pedestrian crossing your lane, you should:",
+    "option1": "stop and let the pedestrian finish crossing.",
+    "option2": "honk your horn and proceed with caution.",
+    "option3": "make sure the pedestrian can see you before proceeding.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 224,
+    "question": "An octagonal sign means that drivers must:",
+    "option1": "respect the posted speed limit.",
+    "option2": "be aware possible hazards ahead.",
+    "option3": "come to a complete stop at the marked stop line.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 225,
+    "question": "What is the purpose of minimum speed limits?",
+    "option1": "To halt the traffic flow.",
+    "option2": "To keep a smooth traffic flow.",
+    "option3": "To allow emergency vehicles with red flashing lights to safely pass other vehicles.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 226,
+    "question": "Most signs used in street work areas are:",
+    "option1": "round.",
+    "option2": "diamond shaped.",
+    "option3": "rectangle shaped.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 227,
+    "question": "This road sign warns drivers that:",
+    "option1": "the road surface ahead changes to a low-type surface or earth road.",
+    "option2": "vehicles must leave the pavement immediately.",
+    "option3": "the dirt on the side of the road is soft.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland227"
+  },
+  {
+    "questionNumber": 228,
+    "question": "An emergency vehicle that uses lights and a siren can be unpredictable. Why?",
+    "option1": "Emergency vehicle drivers are not required to be careful.",
+    "option2": "The driver can legally pass red lights.",
+    "option3": "Emergency vehicles must go faster than the posted speed limit when it is safe to do so.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 229,
+    "question": "You should never depend on your mirrors when you prepare to change lanes. Why?",
+    "option1": "Mirrors are useless.",
+    "option2": "Mirrors need to be adjusted.",
+    "option3": "Mirrors leave “blind spots” behind both sides of vehicles.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 230,
+    "question": "The first sign drivers see when approaching a highway-rail intersection is usually:",
+    "option1": "an advance warning sign.",
+    "option2": "a crossbuck sign.",
+    "option3": "a speed limit sign.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 231,
+    "question": "There is no crosswalk and a pedestrian is crossing your lane ahead. You should:",
+    "option1": "stop and let the pedestrian finish crossing the street.",
+    "option2": "slow down as you pass the pedestrian.",
+    "option3": "make eye contact and then pass the pedestrian.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 232,
+    "question": "This road sign means:",
+    "option1": "Four-lane traffic ahead",
+    "option2": "Divided highway ahead",
+    "option3": "Two-way traffic ahead",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland232"
+  },
+  {
+    "questionNumber": 233,
+    "question": "Your license can be suspended if you are under 21 and drive with a BAC of:",
+    "option1": "0.08% or more.",
+    "option2": "0.15% or more.",
+    "option3": "any amount.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 234,
+    "question": "This sign warns drivers that:",
+    "option1": "another road enters the highway from the direction shown.",
+    "option2": "right turns are not allowed.",
+    "option3": "the road will make a sharp turn to the right.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland234"
+  },
+  {
+    "questionNumber": 235,
+    "question": "This sign means:",
+    "option1": "Traffic signal ahead",
+    "option2": "No traffic signal ahead",
+    "option3": "Open intersection ahead",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland235"
+  },
+  {
+    "questionNumber": 236,
+    "question": "When approaching a highway-rail intersection, the first sign drivers see is usually:",
+    "option1": "a stop sign.",
+    "option2": "a yield sign.",
+    "option3": "an RXR round sign on a yellow background.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 237,
+    "question": "What should drivers do in case of a brake failure?",
+    "option1": "Tie a white cloth on the left door handle.",
+    "option2": "Shift to a lower gear.",
+    "option3": "Brake lightly.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 238,
+    "question": "A broken white line:",
+    "option1": "marks the right edge of the roadway.",
+    "option2": "means passing or crossing is prohibited in that lane.",
+    "option3": "separates two lanes traveling in the same direction.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 239,
+    "question": "This road sign means:",
+    "option1": "Watch for vehicles entering from the side",
+    "option2": "Winding road ahead",
+    "option3": "When pavement is wet, reduce your speed",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland239"
+  },
+  {
+    "questionNumber": 240,
+    "question": "The only effective way to reduce your blood alcohol content (BAC) is:",
+    "option1": "drinking coffee.",
+    "option2": "not to drink over a period of time.",
+    "option3": "fresh air.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 241,
+    "question": "This road sign tells drivers that:",
+    "option1": "they must change lane immediately.",
+    "option2": "the one-way street or roadway ahead ends.",
+    "option3": "they must turn either to the right or left.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland241"
+  },
+  {
+    "questionNumber": 242,
+    "question": "Give the right-of-way to any pedestrian:",
+    "option1": "in a marked crosswalk.",
+    "option2": "if you have the green light.",
+    "option3": "on the opposite side of the street.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 243,
+    "question": "Always stop before you cross railroad tracks when:",
+    "option1": "you do not have room on the other side to completely cross the tracks.",
+    "option2": "you are following a bicyclist or motorcyclist across railroad tracks.",
+    "option3": "you are not wearing safety belts.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 244,
+    "question": "If you drive slower than the flow of traffic, you will most likely:",
+    "option1": "interfere with traffic and receive a ticket.",
+    "option2": "improve traffic flow.",
+    "option3": "help create a safe driving environment.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 245,
+    "question": "Never make a U-turn from:",
+    "option1": "the left part of the lane nearest to the centerline of the roadway.",
+    "option2": "the lane you’re in.",
+    "option3": "the right lane.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 246,
+    "question": "This sign warns drivers of:",
+    "option1": "a sharp turn.",
+    "option2": "a cross road.",
+    "option3": "a side road.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland246"
+  },
+  {
+    "questionNumber": 247,
+    "question": "Hydroplaning is usually caused by:",
+    "option1": "sudden turns.",
+    "option2": "excessive speed.",
+    "option3": "brake failure.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 248,
+    "question": "A flashing yellow light means:",
+    "option1": "Yield the right-of-way to other traffic at the intersection.",
+    "option2": "The light will soon change from green to red.",
+    "option3": "Drive with caution.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 249,
+    "question": "Blind spots are:",
+    "option1": "Areas to the side or rear of a vehicle that the driver cannot see with use of mirrors.",
+    "option2": "Dangerous intersection where the maximum speed limit is 15 MPH or less.",
+    "option3": "At night, the darkest areas of a road, where emergency flashers should be used.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 250,
+    "question": "When driving at night, drivers should:",
+    "option1": "always use their high beams.",
+    "option2": "look directly into the oncoming headlights of approaching vehicles.",
+    "option3": "increase their following distance.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 251,
+    "question": "This road sign means:",
+    "option1": "All traffic must go straight ahead",
+    "option2": "All traffic must turn right",
+    "option3": "A road joins from the right",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland251"
+  },
+  {
+    "questionNumber": 252,
+    "question": "This sign indicates:",
+    "option1": "Divided highway ends",
+    "option2": "Merging traffic",
+    "option3": "Winding road",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland252"
+  },
+  {
+    "questionNumber": 253,
+    "question": "When using a deceleration lane to exit a roadway, drivers should:",
+    "option1": "disregard the posted warning speed unless the road is slippery.",
+    "option2": "not slow down until their vehicle has moved onto the deceleration lane.",
+    "option3": "not use their turn signal until their vehicle has moved onto the deceleration lane.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 254,
+    "question": "This road sign means:",
+    "option1": "School crossing",
+    "option2": "Bicycle crossing",
+    "option3": "Pedestrian crossing",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland254"
+  },
+  {
+    "questionNumber": 255,
+    "question": "This sign warns drivers that:",
+    "option1": "the highway ahead is divided into two one-way roadways. Drivers should keep to the right.",
+    "option2": "there is a winding road ahead.",
+    "option3": "there is a double curve ahead.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland255"
+  },
+  {
+    "questionNumber": 256,
+    "question": "An edge line that angles toward the center of the road indicates that:",
+    "option1": "you must turn right.",
+    "option2": "there’s a narrow bridge ahead.",
+    "option3": "the road is narrower ahead.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 257,
+    "question": "If your brakes are wet, you can dry them by:",
+    "option1": "having them checked by a mechanic.",
+    "option2": "riding the pedal lightly.",
+    "option3": "pull over to the right and wait until it stops raining.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 258,
+    "question": "If another vehicle passes you on the left, you must:",
+    "option1": "decrease your speed, then pull over to the right and stop.",
+    "option2": "increase your speed slightly and keep to the right.",
+    "option3": "decrease your speed slightly and keep to the right.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 259,
+    "question": "Driving at excessive speed:",
+    "option1": "often leads to high-risk decision-making.",
+    "option2": "does not increase the chance of a crash.",
+    "option3": "improves your reaction time.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 260,
+    "question": "What does the flashing signal in the picture indicate?",
+    "option1": "Pedestrians should start crossing the street.",
+    "option2": "Pedestrians should finish crossing the street if started.",
+    "option3": "The same thing as a stop sign.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland260"
+  },
+  {
+    "questionNumber": 261,
+    "question": "You can pass on the right:",
+    "option1": "when a vehicle ahead makes a left turn.",
+    "option2": "when a vehicle ahead makes a right turn.",
+    "option3": "when a vehicle that is approaching from the opposite direction is prepared to turn left.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 262,
+    "question": "Directions given by traffic officers ___________ signs, signals or pavement markings.",
+    "option1": "must obey",
+    "option2": "are less important than",
+    "option3": "take precedence over",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 263,
+    "question": "MVA will suspend the license of any driver who:",
+    "option1": "The other answers are both correct.",
+    "option2": "is determined to have a test result of 0.08 percent alcohol concentration or higher.",
+    "option3": "refuses to submit to a blood alcohol test.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 264,
+    "question": "A flashing red light means:",
+    "option1": "Drive with caution.",
+    "option2": "The same as a STOP sign.",
+    "option3": "The light will soon change to steady red.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 265,
+    "question": "Which signs have black letters on a yellow or orange background?",
+    "option1": "Warning signs (diamond)",
+    "option2": "Regulatory signs (vertical rectangle)",
+    "option3": "Railroad advance warning signs (round)",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 266,
+    "question": "This road sign means:",
+    "option1": "Drivers cannot make a complete turn to go in the opposite direction.",
+    "option2": "Left turns are not allowed where this sign is displayed.",
+    "option3": "Vehicles turning left must make a U-turn.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland266"
+  },
+  {
+    "questionNumber": 267,
+    "question": "A driver cuts off another vehicle, or threatens another motorist or a pedestrian. These are examples of:",
+    "option1": "defensive driving",
+    "option2": "road rage",
+    "option3": "excessive driving",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 268,
+    "question": "This road sign means:",
+    "option1": "Hospital parking ahead",
+    "option2": "Crossroad",
+    "option3": "Merge",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland268"
+  },
+  {
+    "questionNumber": 269,
+    "question": "If you approach a flashing red traffic light, you should treat the intersection the same as:",
+    "option1": "a warning sign.",
+    "option2": "a stop sign.",
+    "option3": "a yield sign.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 270,
+    "question": "This road sign means:",
+    "option1": "School zone",
+    "option2": "Pedestrian crossing",
+    "option3": "School crossing",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland270"
+  },
+  {
+    "questionNumber": 271,
+    "question": "The first thing affected after drinking alcohol is:",
+    "option1": "balance.",
+    "option2": "speech.",
+    "option3": "judgment.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 272,
+    "question": "When driving on the freeway behind large trucks, you should:",
+    "option1": "increase your following distance.",
+    "option2": "drive closer behind the truck than for a passenger vehicle.",
+    "option3": "move to the right of the truck and pass it quickly.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 273,
+    "question": "More than one vehicle is approaching a four-way stop sign. Who has the right of way?",
+    "option1": "The driver on the left.",
+    "option2": "The first driver to reach the intersection and stop.",
+    "option3": "The last driver to reach the intersection.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 274,
+    "question": "When you make a left turn from a two-way road into a four-lane highway, you must:",
+    "option1": "go straight through the intersection, and then make the turn.",
+    "option2": "enter the right lane, to the left of the center line.",
+    "option3": "enter the left lane, to the right of the center line.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 275,
+    "question": "The picture shows:",
+    "option1": "a speeding fines doubled sign.",
+    "option2": "a railroad advance warning sign.",
+    "option3": "a reversible road sign.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland275"
+  },
+  {
+    "questionNumber": 276,
+    "question": "If a tire suddenly blows out while you are driving, you should:",
+    "option1": "slow down gradually and brake lightly.",
+    "option2": "apply the brakes firmly.",
+    "option3": "pump the brakes rapidly.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 277,
+    "question": "When you see this sign you should:",
+    "option1": "slow your speed and be prepared to stop.",
+    "option2": "slow your speed and do not pass other vehicles.",
+    "option3": "increase your speed and try to pass other vehicles.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland277"
+  },
+  {
+    "questionNumber": 278,
+    "question": "This sign warns drivers that:",
+    "option1": "there is a winding road ahead.",
+    "option2": "there is a double curve ahead.",
+    "option3": "they must turn either to the right or left.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland278"
+  },
+  {
+    "questionNumber": 279,
+    "question": "When you pass another vehicle, before you return to the right lane, you must:",
+    "option1": "look at your interior rear-view mirror.",
+    "option2": "signal.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 280,
+    "question": "Texting while driving a motor vehicle is:",
+    "option1": "permitted when driving at a slow speed.",
+    "option2": "illegal.",
+    "option3": "legal if the driver is 21 years of age or older.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 281,
+    "question": "After you stop for a school bus, you must:",
+    "option1": "wait until the red lights stop flashing.",
+    "option2": "pass the bus before the red lights stop flashing.",
+    "option3": "turn off your engine.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 282,
+    "question": "When preparing to exit an expressway, drivers should start reducing their speed:",
+    "option1": "about halfway through the deceleration lane.",
+    "option2": "at least 100 feet before entering the deceleration lane.",
+    "option3": "immediately upon entering the deceleration lane.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 283,
+    "question": "When driving in fog, you should never use your high beams because:",
+    "option1": "vehicles behind you may follow too closely.",
+    "option2": "oncoming vehicles might not see you.",
+    "option3": "the light will reflect back into your eyes.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 284,
+    "question": "Bicyclists must:",
+    "option1": "remain to the right when they prepare for a left turn.",
+    "option2": "ride in a bicycle lane, if available.",
+    "option3": "remain near the left edge of the road.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 285,
+    "question": "This road sign means:",
+    "option1": "Divided highway begins",
+    "option2": "Lane ends",
+    "option3": "Keep left",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland285"
+  },
+  {
+    "questionNumber": 286,
+    "question": "Collisions can happen more often when:",
+    "option1": "one vehicle is traveling faster than the flow of traffic.",
+    "option2": "all vehicles are traveling at the posted speed limit.",
+    "option3": "one lane of traffic is traveling faster than the others.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 287,
+    "question": "It is unlawful­ to:",
+    "option1": "pass within 150 feet of any railroad crossing.",
+    "option2": "pass within 250 feet of any intersection.",
+    "option3": "exceed the posted speed limit when passing.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 288,
+    "question": "The use of alcohol and/or drugs affects:",
+    "option1": "concentration and reaction time.",
+    "option2": "alertness and judgement.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 289,
+    "question": "The octagonal shape is used:",
+    "option1": "for stop signs and railroad advance warning signs.",
+    "option2": "to warn drivers of existing or possible hazards on roadways.",
+    "option3": "exclusively for stop signs.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland289"
+  },
+  {
+    "questionNumber": 290,
+    "question": "A broken yellow line to the right of a solid yellow center line means:",
+    "option1": "passing is prohibited.",
+    "option2": "you may pass other vehicles if no oncoming traffic is present.",
+    "option3": "you are only allowed to make left turns in this area.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 291,
+    "question": "Vehicles stopped behind a school bus when the red lights are flashing must remain stopped until:",
+    "option1": "the flashing lights turn green.",
+    "option2": "all students are off the bus.",
+    "option3": "the stop arm is retracted and the bus begins moving.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 292,
+    "question": "Excessive speed:",
+    "option1": "helps you to maneuver around obstacles.",
+    "option2": "increases the likelihood of serious bodily injuries and death.",
+    "option3": "saves time so you can get to your destination more quickly.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 293,
+    "question": "Signs with orange backgrounds mean:",
+    "option1": "railroad crossing.",
+    "option2": "side road ahead.",
+    "option3": "road construction site.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland293"
+  },
+  {
+    "questionNumber": 294,
+    "question": "This sign indicates:",
+    "option1": "Phone service ahead",
+    "option2": "Cell phone shop ahead",
+    "option3": "Emergency line available",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland294"
+  },
+  {
+    "questionNumber": 295,
+    "question": "What should you do if a vehicle is approaching head-on in your lane?",
+    "option1": "Pull over to the left and use your emergency lights to stop the other driver.",
+    "option2": "Turn off the ignition if your vehicle has power steering.",
+    "option3": "Decrease speed, pull over to the right and sound your horn to warn the other driver.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 296,
+    "question": "Who is most at risk?",
+    "option1": "Experienced drivers.",
+    "option2": "Drivers who have overslept.",
+    "option3": "Drivers who are driving long distances without rest breaks.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 297,
+    "question": "The yield sign is ___ and white, with ___ letters.",
+    "option1": "yellow; black",
+    "option2": "red; red",
+    "option3": "red; white",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 298,
+    "question": "Drivers should check their rearview mirrors:",
+    "option1": "often to see how traffic is moving behind them.",
+    "option2": "only when slowing down.",
+    "option3": "to see if a truck is in their blind spot.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 299,
+    "question": "When drivers see the ‘Wrong Way’ sign:",
+    "option1": "they are going the wrong way on an expressway exit ramp.",
+    "option2": "they must drive past this sign and reach the next intersection.",
+    "option3": "they must not leave the pavement except in an emergency.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 300,
+    "question": "At intersections, crosswalks, and railroad crossings, drivers should always:",
+    "option1": "look to the sides of their vehicle to see what is coming.",
+    "option2": "stop, listen for oncoming traffic, and proceed with caution.",
+    "option3": "slowly pass vehicles the vehicles ahead.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 301,
+    "question": "Two motorcyclists are allowed to:",
+    "option1": "race on empty roads.",
+    "option2": "ride side-by-side in a single lane.",
+    "option3": "share the lane with another vehicle.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 302,
+    "question": "Drivers often fail to see a motorcycle headed toward them. Why?",
+    "option1": "Motorcycles are hard to see.",
+    "option2": "It is difficult to judge a motorcycle1s speed.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 303,
+    "question": "The ‘One Way’ sign means that:",
+    "option1": "only vehicles turning left may travel in the direction of the arrow.",
+    "option2": "there is only one road that turns left at the intersection.",
+    "option3": "drivers may travel only in the direction of the arrow.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland303"
+  },
+  {
+    "questionNumber": 304,
+    "question": "Roads are most slippery:",
+    "option1": "when it stops raining.",
+    "option2": "just before it rains.",
+    "option3": "when it first starts to rain.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 305,
+    "question": "A four-way stop sign means:",
+    "option1": "traffic from all four directions must stop.",
+    "option2": "if two vehicles reach the intersection at the same time, the driver on the left yields to the driver on the right.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland305"
+  },
+  {
+    "questionNumber": 306,
+    "question": "Drivers under the age of 21 are subject to a specific restriction prohibiting them from driving:",
+    "option1": "before midnight.",
+    "option2": "before consuming alcohol.",
+    "option3": "with alcohol in their system.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 307,
+    "question": "When preparing to drive, you should:",
+    "option1": "pump the brakes.",
+    "option2": "adjust your seat and mirrors.",
+    "option3": "shift the transmission to neutral.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 308,
+    "question": "Your BAC depends on:",
+    "option1": "the amount of alcohol you drink.",
+    "option2": "the type of beverage you drink.",
+    "option3": "how fit you are.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 309,
+    "question": "While inside the roundabout, you should:",
+    "option1": "use your left turn signal if you are in position to exit now.",
+    "option2": "remain in your lane until you are ready to exit.",
+    "option3": "change lanes before you check for vehicles behind you.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 310,
+    "question": "If an intersection has crosswalk lines but no STOP line, where must you stop for a red light?",
+    "option1": "Before the crosswalk.",
+    "option2": "After the crosswalk.",
+    "option3": "Before the stop line.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 311,
+    "question": "This sign means:",
+    "option1": "Warning: U-turn ahead.",
+    "option2": "Sharp right turn ahead.",
+    "option3": "Hairpin corner ahead.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland311"
+  },
+  {
+    "questionNumber": 312,
+    "question": "One broken line indicates:",
+    "option1": "You can change lanes, but only when traffic conditions or obstructions in the road make it necessary.",
+    "option2": "You can pass other vehicles and change lanes, if it is safe.",
+    "option3": "You can not pass other vehicles or go across the line.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 313,
+    "question": "To avoid traction loss from hydroplaning, drivers should:",
+    "option1": "slow down.",
+    "option2": "apply the brakes as soon as the car starts to skid.",
+    "option3": "keep a constant speed.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 314,
+    "question": "This road sign means:",
+    "option1": "Slow down or stop",
+    "option2": "Stop",
+    "option3": "Road narrows ahead",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland314"
+  },
+  {
+    "questionNumber": 315,
+    "question": "This is the shape and color of a ________ sign.",
+    "option1": "stop",
+    "option2": "do not enter",
+    "option3": "yield",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland315"
+  },
+  {
+    "questionNumber": 316,
+    "question": "How many different classes of mopeds are there?",
+    "option1": "2",
+    "option2": "5",
+    "option3": "3",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 317,
+    "question": "If you are approaching an emergency vehicle that is stopped on the road, you:",
+    "option1": "must pull into an available lane not immediately adjacent to the emergency vehicle.",
+    "option2": "must increase your speed to get around the emergency vehicle as quickly as possible.",
+    "option3": "may not pass the emergency vehicle.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 318,
+    "question": "Examples of proper glass maintenance include:",
+    "option1": "Keeping your windows clean and clear.",
+    "option2": "Replacing worn wiper blades.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 319,
+    "question": "When you approach this sign, you must:",
+    "option1": "stop if necessary.",
+    "option2": "watch for workers crossing the road.",
+    "option3": "None of the above.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland319"
+  },
+  {
+    "questionNumber": 320,
+    "question": "A vehicle is stopped at a crosswalk to permit a pedestrian to cross the roadway. The driver of the vehicle approaching from the rear should:",
+    "option1": "overtake and pass the stopped vehicle.",
+    "option2": "sound the horn.",
+    "option3": "not overtake and pass the stopped vehicle.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 321,
+    "question": "This sign indicates the _______________ vehicles can safely travel in this area.",
+    "option1": "suggested speed",
+    "option2": "minimum speed",
+    "option3": "maximum speed",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland321"
+  },
+  {
+    "questionNumber": 322,
+    "question": "What does it mean If an oncoming driver flashes headlights at you during a period of low visibility?",
+    "option1": "Your vehicle was difficult to see. You should turn on your headlights.",
+    "option2": "Your headlights are too bright. You should turn them off.",
+    "option3": "Your headlights are too bright. You should use parking lights instead.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 323,
+    "question": "Double solid yellow lines mean:",
+    "option1": "the lane to the left may pass.",
+    "option2": "passing is permitted in either direction.",
+    "option3": "passing is not permitted in either direction.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 324,
+    "question": "This road sign means:",
+    "option1": "Do not enter",
+    "option2": "No U-Turn",
+    "option3": "Roundabout ahead",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland324"
+  },
+  {
+    "questionNumber": 325,
+    "question": "Traffic lights are normally ____________ from the top to bottom or left to right.",
+    "option1": "red, green and yellow",
+    "option2": "red, yellow and green",
+    "option3": "green, yellow and red",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 326,
+    "question": "You reach an intersection that is not controlled at the same time as a driver on your right, and both of you prepare to go straight. Who has the right-of-way?",
+    "option1": "You.",
+    "option2": "No one.",
+    "option3": "The other driver.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 327,
+    "question": "This road sign means:",
+    "option1": "Sharp curve ahead",
+    "option2": "No right turn",
+    "option3": "Right turn permitted",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland327"
+  },
+  {
+    "questionNumber": 328,
+    "question": "When driving in fog, drivers should use:",
+    "option1": "parking lights.",
+    "option2": "high beam headlights.",
+    "option3": "low beam headlights.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 329,
+    "question": "When following a motorcycle, drivers must remember that motorcycles can ____________ than other vehicles.",
+    "option1": "stop much more quickly",
+    "option2": "accelerate much faster",
+    "option3": "stop much more slowly",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 330,
+    "question": "Parking is not allowed:",
+    "option1": "on public roads",
+    "option2": "within 300 feet of a pedestrian safety area.",
+    "option3": "in an intersection, unless permitted by signs.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 331,
+    "question": "Just like alcohol and other drugs, drowsiness can:",
+    "option1": "make you feel better.",
+    "option2": "help you to be a better driver.",
+    "option3": "impair your judgment.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 332,
+    "question": "In heavy rain, tires can begin to ride on the water that is on top of the road pavement. This is called:",
+    "option1": "hydroplaning.",
+    "option2": "waterplaning.",
+    "option3": "rideplaning.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 333,
+    "question": "If a driver follows you too closely, you should:",
+    "option1": "brake suddenly.",
+    "option2": "activate your stop lights.",
+    "option3": "move to another lane if possible.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 334,
+    "question": "Which of the following drugs could affect your ability to drive?",
+    "option1": "Marijuana.",
+    "option2": "A cold remedy.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 335,
+    "question": "What is the meaning of orange traffic signs?",
+    "option1": "Construction and maintenance warning.",
+    "option2": "Yield.",
+    "option3": "Warning of school, pedestrian, and bicycling activity.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 336,
+    "question": "Do not be afraid to sound a sharp blast on your horn when:",
+    "option1": "another vehicle is in danger of hitting you.",
+    "option2": "when a child is about to run into the street.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 337,
+    "question": "Which statement about blind spots is true?",
+    "option1": "Large trucks have smaller blind spots than most passenger vehicles.",
+    "option2": "If traffic conditions permit you should cruise in blind spot of the vehicle ahead.",
+    "option3": "Before changing lanes, you should check mirrors and look over your shoulder toward the rear.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 338,
+    "question": "Distracted driving is anything that:",
+    "option1": "causes you to focus on your driving.",
+    "option2": "causes evasive action while driving.",
+    "option3": "takes your attention away from driving.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 339,
+    "question": "When drivers come to this sign, they must:",
+    "option1": "be ready to stop at the stop sign.",
+    "option2": "warn other drivers that a stop sign is ahead.",
+    "option3": "brake sharply and come to a complete stop.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland339"
+  },
+  {
+    "questionNumber": 340,
+    "question": "What should drivers do when they see this road sign?",
+    "option1": "come to a complete stop and wait for a train to cross.",
+    "option2": "slow down, look for a train, and be prepared to stop.",
+    "option3": "look for a human flagger.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland340"
+  },
+  {
+    "questionNumber": 341,
+    "question": "What should drivers do when the red lights begin to flash?",
+    "option1": "Yield.",
+    "option2": "Stop.",
+    "option3": "Slow down.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland341"
+  },
+  {
+    "questionNumber": 342,
+    "question": "This road sign means:",
+    "option1": "Steep downgrade ahead",
+    "option2": "Do not pass trucks",
+    "option3": "Truck must back up",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland342"
+  },
+  {
+    "questionNumber": 343,
+    "question": "This road sign means:",
+    "option1": "Steep downgrade",
+    "option2": "Work work ahead",
+    "option3": "Slippery when wet",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland343"
+  },
+  {
+    "questionNumber": 344,
+    "question": "This is:",
+    "option1": "a right curve sign.",
+    "option2": "a side road sign.",
+    "option3": "a merging traffic sign.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland344"
+  },
+  {
+    "questionNumber": 345,
+    "question": "At a school crossing, drivers should:",
+    "option1": "always stop, whether there’s a stop sign or not.",
+    "option2": "always sound their horn and stay alert.",
+    "option3": "watch for children and be ready to stop.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland345"
+  },
+  {
+    "questionNumber": 346,
+    "question": "When you are facing a green light and there are pedestrians in the intersection:",
+    "option1": "you have the right-of-way over pedestrians.",
+    "option2": "you must yield the right-of-way to pedestrians.",
+    "option3": "you must signal your intention to cross the intersection at least 100 feet before yielding the right-of-way.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 347,
+    "question": "This road sign means:",
+    "option1": "School crossing",
+    "option2": "Pedestrian crossing",
+    "option3": "Playground ahead",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland347"
+  },
+  {
+    "questionNumber": 348,
+    "question": "Service signs are ____ with ____ letters and symbols.",
+    "option1": "blue; white",
+    "option2": "green; white",
+    "option3": "white; black",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 349,
+    "question": "Green and white signs:",
+    "option1": "give information about directions and distances.",
+    "option2": "are mainly used at intersections and driveways.",
+    "option3": "warn drivers of unexpected road conditions.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 350,
+    "question": "When passing another vehicle, you should:",
+    "option1": "check your mirrors and blind spots.",
+    "option2": "drive at the same speed as the vehicle you are passing.",
+    "option3": "assume the other vehicle will maintain a constant speed.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 351,
+    "question": "If your gas pedal is stuck, you should:",
+    "option1": "ease your foot off the gas pedal and brake gently.",
+    "option2": "hook your shoe under the pedal and see if you can free it. If not, shift into neutral and use the brake to slow your vehicle and get off the road.",
+    "option3": "turn off the ignition if your vehicle has power steering.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 352,
+    "question": "MVA will suspend the license of any driver who is determined to have a BAC of ____ or higher.",
+    "option1": "0.08",
+    "option2": "0.06",
+    "option3": "0.02",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 353,
+    "question": "When they see this sign, drivers should:",
+    "option1": "yield to trucks coming from the hill on the right.",
+    "option2": "be ready to shift to lower gear.",
+    "option3": "be ready to brake sharply and stop.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland353"
+  },
+  {
+    "questionNumber": 354,
+    "question": "This road sign means:",
+    "option1": "Detour ahead",
+    "option2": "Road curves ahead",
+    "option3": "Slow down, slippery when wet",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland354"
+  },
+  {
+    "questionNumber": 355,
+    "question": "This road sign means:",
+    "option1": "There is a series of sharp turns up ahead on the road",
+    "option2": "Sharp right turn ahead.",
+    "option3": "A road joins from the right",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland355"
+  },
+  {
+    "questionNumber": 356,
+    "question": "What should you do as you prepare to turn right at an intersection?",
+    "option1": "Signal your turn, check for bicyclists, and do not turn directly in front of a bicyclist.",
+    "option2": "Honk your horn.",
+    "option3": "Yield to bicyclists coming from the opposite direction.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 357,
+    "question": "When turning, drivers should:",
+    "option1": "increase their speed to improve stability.",
+    "option2": "always move to the right lane.",
+    "option3": "check traffic in all directions.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 358,
+    "question": "This sign means:",
+    "option1": "Do not turn right.",
+    "option2": "The road will curve to the right.",
+    "option3": "Left turns are not allowed at the intersection.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland358"
+  },
+  {
+    "questionNumber": 359,
+    "question": "What is the most important rule to remember in any emergency?",
+    "option1": "Run away.",
+    "option2": "Call the police.",
+    "option3": "Do not panic.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 360,
+    "question": "You are stopped at a stop sign and you are going to go straight through the intersection. A car on the cross road has stopped at a stop sign on your right and is going to go straight. Who has the right-of-way?",
+    "option1": "The car on your right.",
+    "option2": "Whoever enters the intersection first.",
+    "option3": "You.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 361,
+    "question": "Which shape is a railroad advance warning sign?",
+    "option1": "Crossbuck",
+    "option2": "Round",
+    "option3": "Pentagon",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 362,
+    "question": "At intersections where two or more drivers stop at STOP signs at the same time and they are at right angles:",
+    "option1": "the driver on the right must yield to the driver on the left.",
+    "option2": "the driver who is late for work has the right-of-way.",
+    "option3": "the driver on the left must yield to the driver on the right.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 363,
+    "question": "This sign is a:",
+    "option1": "guide sign.",
+    "option2": "regulatory sign.",
+    "option3": "warning sign.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland363"
+  },
+  {
+    "questionNumber": 364,
+    "question": "When you see this sign you should:",
+    "option1": "turn right.",
+    "option2": "watch for traffic to the right.",
+    "option3": "merge left.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland364"
+  },
+  {
+    "questionNumber": 365,
+    "question": "Which of the following is true about the Anti-Locking Brake System?",
+    "option1": "It prevents skidding.",
+    "option2": "It allows drivers to steer during an emergency braking situation.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 366,
+    "question": "You are entering a roadway from a private road, and you need to turn left. You have to yield to:",
+    "option1": "vehicles from the left.",
+    "option2": "vehicles from both directions.",
+    "option3": "vehicles from the right.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 367,
+    "question": "Double solid lines on the roadway mean:",
+    "option1": "you cannot pass.",
+    "option2": "you can not go across the lines except to turn left to enter or leave the highway.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 368,
+    "question": "When the road is slippery you should:",
+    "option1": "slow and pro-ceed with caution.",
+    "option2": "decrease the following distance.",
+    "option3": "check your brakes.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 369,
+    "question": "From top to bottom, traffic lights are:",
+    "option1": "green, yellow and red.",
+    "option2": "red, yellow and green.",
+    "option3": "green, red and yellow.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 370,
+    "question": "When drivers see this road sign:",
+    "option1": "they must turn around immediately.",
+    "option2": "they must not drive past this sign.",
+    "option3": "they must come to a complete stop and call the police.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland370"
+  },
+  {
+    "questionNumber": 371,
+    "question": "Left turns on a red light are allowed:",
+    "option1": "Never.",
+    "option2": "at intersections, after stopping, if the way is clear.",
+    "option3": "from a one-way street into a one-way street.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 372,
+    "question": "This road sign means:",
+    "option1": "Merging Traffic",
+    "option2": "Curve ahead",
+    "option3": "Wrong Way",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland372"
+  },
+  {
+    "questionNumber": 373,
+    "question": "This sign means:",
+    "option1": "The road to the right is for one-way traffic only",
+    "option2": "Not enter",
+    "option3": "Detour to the right",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland373"
+  },
+  {
+    "questionNumber": 374,
+    "question": "To avoid becoming an aggressive driver, you should:",
+    "option1": "Adjust your schedule to drive during times with the most highway traffic.",
+    "option2": "Allow enough travel time to reach your destination on schedule.",
+    "option3": "Listen to heavy metal music.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 375,
+    "question": "What does BAC stand for?",
+    "option1": "Blood Alcohol Content",
+    "option2": "Blood Alcohol Concentration",
+    "option3": "Blood Alcohol Commission",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 376,
+    "question": "Speed limit signs are:",
+    "option1": "service signs",
+    "option2": "warning signs",
+    "option3": "regulation signs (regulatory signs)",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 377,
+    "question": "This sign warns drivers that:",
+    "option1": "they will soon be facing oncoming traffic.",
+    "option2": "they cannot go straight ahead.",
+    "option3": "a shared lane starts ahead.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland377"
+  },
+  {
+    "questionNumber": 378,
+    "question": "Motorcycles:",
+    "option1": "are entitled to use a complete traffic lane.",
+    "option2": "must share a traffic lane with another vehicle.",
+    "option3": "are easier to see than cars.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 379,
+    "question": "You hear a siren close by but can not see where the emergency vehicle is. What do you do?",
+    "option1": "Stop immediately and activate your emergency flashers.",
+    "option2": "Keep driving until you are sure the emergency vehicle is headed toward you.",
+    "option3": "Pull over to the right side of the road and stop until you are sure the emergency vehicle is not headed toward you.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 380,
+    "question": "Drivers can not pass a vehicle on the left if:",
+    "option1": "their lane has a solid yellow center line.",
+    "option2": "they can not safely return to the right lane before any oncoming vehicle comes within 200 feet of them.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 381,
+    "question": "There are two traffic lanes in your direction. You are driving in the left lane and many vehicles are passing you on the right, and the driver behind you wishes to drive faster. You should:",
+    "option1": "move over into the right lane when safe to do so.",
+    "option2": "drive onto the left shoulder to let the other driver pass.",
+    "option3": "stay in your lane and maintain your current speed.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 382,
+    "question": "Regulation signs normally are ____ rectangles with ____ letters or symbols.",
+    "option1": "white; black",
+    "option2": "yellow; black",
+    "option3": "green; white",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 383,
+    "question": "Which sign has white letters on a red background?",
+    "option1": "Yield",
+    "option2": "Stop",
+    "option3": "School zone",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 384,
+    "question": "At a stop sign there is no stop line or crosswalk. You must stop:",
+    "option1": "at the next crosswalk.",
+    "option2": "before you enter the intersection.",
+    "option3": "after you enter the intersection, if you have a clear view of traffic on the intersecting roadway.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 385,
+    "question": "What happens if two vehicles reach at the same time an intersection with four-way stop signs?",
+    "option1": "The driver on the left yields to the driver on the right.",
+    "option2": "The first vehicle to reach the intersection must yield.",
+    "option3": "The driver on the right yields to the driver on the left.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 386,
+    "question": "Road signs that direct drivers to services are:",
+    "option1": "blue and white.",
+    "option2": "brown and white.",
+    "option3": "green and white.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 387,
+    "question": "Are bicyclists required to obey traffic laws and signs?",
+    "option1": "Yes.",
+    "option2": "No, bicyclists are considered pedestrians when it comes to the rules of the road.",
+    "option3": "Yes, but only if they are riding in a bicycle lane.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 388,
+    "question": "If you hear a thumping sound while driving, you should:",
+    "option1": "get off the road and check your tires.",
+    "option2": "try your emergency lights.",
+    "option3": "hook your shoe under the gas pedal and see if you can free it.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 389,
+    "question": "If the entrance lane is too short to allow acceleration to expressway speed, you should:",
+    "option1": "enter the expressway and accelerate quickly.",
+    "option2": "reduce your speed to 15 MPH or less and blend with traffic.",
+    "option3": "stop and wait for a large space in traffic.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 390,
+    "question": "When entering an interstate highway, drivers should:",
+    "option1": "check for cars and slow down to 25 MPH before merging with the flow of traffic.",
+    "option2": "wait for an opening in traffic on the entrance ramp.",
+    "option3": "adjust speed to meet a traffic gap, then merge at a safe speed.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 391,
+    "question": "If you become sleepy while driving you should:",
+    "option1": "drink coffee.",
+    "option2": "open a window.",
+    "option3": "get some rest or change drivers.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 392,
+    "question": "BAC is expressed in:",
+    "option1": "ounces of alcohol in your blood.",
+    "option2": "percentage of alcohol to blood.",
+    "option3": "percentage of blood to alcohol.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 393,
+    "question": "This sign means:",
+    "option1": "No passing zone ahead.",
+    "option2": "Do not to enter if your vehicle is taller than the height listed on the sign.",
+    "option3": "Narrow bridge ahead. Slow down and drive with caution.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland393"
+  },
+  {
+    "questionNumber": 394,
+    "question": "This road sign means:",
+    "option1": "Yield the right-of-way",
+    "option2": "Low clearance",
+    "option3": "Side road",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland394"
+  },
+  {
+    "questionNumber": 395,
+    "question": "Air bags are meant to _________ seat belts.",
+    "option1": "fix",
+    "option2": "replace",
+    "option3": "work with",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 396,
+    "question": "This sign means:",
+    "option1": "Wrong way; Turn around immediately.",
+    "option2": "270 degree turn ahead.",
+    "option3": "Roundabout ahead.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland396"
+  },
+  {
+    "questionNumber": 397,
+    "question": "This road sign means:",
+    "option1": "Sharp curves ahead",
+    "option2": "Intersection ahead",
+    "option3": "Merging traffic from the right",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland397"
+  },
+  {
+    "questionNumber": 398,
+    "question": "If you are blinded by headlights on an approaching vehicle, you should:",
+    "option1": "flash your headlights to high beam for a second, then return to low beam.",
+    "option2": "move your eyes to the right.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 399,
+    "question": "If you see orange construction signs and cones on a freeway, you must:",
+    "option1": "maintain your current speed while changing lanes.",
+    "option2": "be prepared for workers and equipment ahead.",
+    "option3": "make a U-turn because the lane ends ahead.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 400,
+    "question": "___________ are green with white letters and symbols.",
+    "option1": "Destination signs (guide signs)",
+    "option2": "Warning signs",
+    "option3": "Regulation signs (regulatory signs)",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 401,
+    "question": "To drive defensively, you must:",
+    "option1": "avoid scanning the road ahead.",
+    "option2": "keep one hand on the steering wheel.",
+    "option3": "keep your eyes moving.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 402,
+    "question": "This sign means:",
+    "option1": "Drivers will soon be on a roadway with two-way traffic.",
+    "option2": "Divided highway ahead.",
+    "option3": "Divided highway ends.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland402"
+  },
+  {
+    "questionNumber": 403,
+    "question": "Large trucks:",
+    "option1": "have high-tech air brakes which allow them to stop quickly.",
+    "option2": "are more maneuverable than passenger vehicles.",
+    "option3": "take longer to stop than passenger vehicles.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 404,
+    "question": "To reduce their chances of colliding with an animal, drivers should:",
+    "option1": "look well down the road and far off to each side.",
+    "option2": "scan the sides of the road to watch for the reflection of vehicle headlights in the eyes of animals.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 405,
+    "question": "You ________ traffic headed toward you when you turn left.",
+    "option1": "must yield to",
+    "option2": "must interrupt",
+    "option3": "must not yield to",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 406,
+    "question": "If the vehicle you are driving starts to skid, you should:",
+    "option1": "turn off the ignition.",
+    "option2": "brake lightly.",
+    "option3": "stay off the brakes.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 407,
+    "question": "What is the only effective method to reduce your BAC?",
+    "option1": "Eating before or while you drink.",
+    "option2": "Not drinking over a period of time.",
+    "option3": "Drinking coffee.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 408,
+    "question": "Before you change lanes, you should:",
+    "option1": "check your left mirror.",
+    "option2": "keep other vehicles out of your blind spots.",
+    "option3": "look for other traffic by turning your head and looking behind you for oncoming traffic.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 409,
+    "question": "This road sign means:",
+    "option1": "Railroad Crossing",
+    "option2": "One Way",
+    "option3": "Limited parking",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland409"
+  },
+  {
+    "questionNumber": 410,
+    "question": "To see vehicles in your blind spots, you must look:",
+    "option1": "in your side mirrors.",
+    "option2": "over your shoulders.",
+    "option3": "in your outside rearview mirror.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 411,
+    "question": "A red traffic sign means?",
+    "option1": "Stop.",
+    "option2": "Do not enter.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 412,
+    "question": "If you see a “lane closed ahead” sign you should:",
+    "option1": "make a U-turn. You are on the wrong side of the road.",
+    "option2": "speed to the end of the closed lane and try to get into the other lane.",
+    "option3": "merge into the correct lane when it is safe.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 413,
+    "question": "Pentagonal signs are used to indicate:",
+    "option1": "no passing zones.",
+    "option2": "possible hazards on roadways.",
+    "option3": "school crossings.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 414,
+    "question": "The picture shows a _________ sign.",
+    "option1": "no left turn",
+    "option2": "no U-turn",
+    "option3": "sharp turn",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland414"
+  },
+  {
+    "questionNumber": 415,
+    "question": "Drivers can not pass a vehicle on the left if:",
+    "option1": "they can not safely return to the right lane before they reach a solid yellow center line for the right lane.",
+    "option2": "they approach the top of a hill on a two-way road and can not see over it.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 416,
+    "question": "After passing a vehicle, it is safe to return to your lane when:",
+    "option1": "the driver you passed slows down to let you return to your lane.",
+    "option2": "you can see both headlights of the vehicle you just passed in your rearview mirror.",
+    "option3": "you are at least 100 feet ahead of the vehicle you passed.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 417,
+    "question": "This sign means:",
+    "option1": "You can only park between 8:30 AM and 5:30 PM.",
+    "option2": "No parking between 8:30 AM and 5:30 PM.",
+    "option3": "Parking is not allowed at 8:30 AM and at 5:30 PM",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland417"
+  },
+  {
+    "questionNumber": 418,
+    "question": "This road sign means:",
+    "option1": "Pedestrian crossing ahead",
+    "option2": "School zone ahead",
+    "option3": "Pedestrians must not cross here",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland418"
+  },
+  {
+    "questionNumber": 419,
+    "question": "If you encounter an aggressive driver you should:",
+    "option1": "show them how to drive defensively.",
+    "option2": "speed up.",
+    "option3": "get out of their way.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 420,
+    "question": "To avoid glare from headlights of an approaching car:",
+    "option1": "do not look directly into the oncoming headlights, look toward the right edge of your lane.",
+    "option2": "stay focused on the center line on the road.",
+    "option3": "flash your high beams.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 421,
+    "question": "This sign indicates:",
+    "option1": "a cross road.",
+    "option2": "a side road.",
+    "option3": "a church zone ahead.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland421"
+  },
+  {
+    "questionNumber": 422,
+    "question": "If a vehicle suddenly cuts in front of you creating a hazard, which of these actions should you take first?",
+    "option1": "Swerve into the lane next to you.",
+    "option2": "Take your foot off the gas pedal.",
+    "option3": "Sound your horn and step on the brake firmly.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 423,
+    "question": "This road sign means:",
+    "option1": "Traffic must move only in the direction of the arrow",
+    "option2": "Two way Traffic",
+    "option3": "Minimum Speed",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland423"
+  },
+  {
+    "questionNumber": 424,
+    "question": "When parking on a public road, drivers should:",
+    "option1": "move as far away from traffic as possible.",
+    "option2": "always park on the left side of the roadway.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 425,
+    "question": "Arrows on the roadway:",
+    "option1": "indicate reserved lanes.",
+    "option2": "indicate HOV lanes.",
+    "option3": "show which lanes you must use.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 426,
+    "question": "If your car goes into water, you should:",
+    "option1": "remove yourself before it starts to sink.",
+    "option2": "wait for water to rush in and let it out in small breaths through your nose.",
+    "option3": "call the fire department immediately.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 427,
+    "question": "BAC is:",
+    "option1": "the number of ounces of alcohol in your blood.",
+    "option2": "the acronym for Beer ACcumulation.",
+    "option3": "the percentage of alcohol in your blood.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 428,
+    "question": "When following motorcycles, drivers should:",
+    "option1": "reduce the minimum following distance.",
+    "option2": "try to pass them as they have different braking capabilities than other motor vehicles.",
+    "option3": "keep more space in front of their vehicle.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 429,
+    "question": "This sign warns ____________ ahead.",
+    "option1": "that a divided highway ends",
+    "option2": "of two-way traffic",
+    "option3": "of a reduction of lanes",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland429"
+  },
+  {
+    "questionNumber": 430,
+    "question": "This sign warns drivers of:",
+    "option1": "a bridge ahead, wide enough to accommodate two lanes of traffic, but with very little clearance.",
+    "option2": "a dip in the road. Drivers should be ready to stop if the dip is filled with water.",
+    "option3": "a reduction of lanes.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland430"
+  },
+  {
+    "questionNumber": 431,
+    "question": "Warning signs normally are:",
+    "option1": "rectangles.",
+    "option2": "diamond-shaped.",
+    "option3": "triangles.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 432,
+    "question": "When they see this sign, drivers should:",
+    "option1": "increase their speed and keep well to the right.",
+    "option2": "slow down and keep well to the right.",
+    "option3": "slow down and keep well to the left.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland432"
+  },
+  {
+    "questionNumber": 433,
+    "question": "When approaching any intersection or driveway, drivers should:",
+    "option1": "pass other vehicles and then stop.",
+    "option2": "look both ways and be ready to stop.",
+    "option3": "drive at the fastest speed just before entering the intersection.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 434,
+    "question": "What is the meaning of blue traffic signs?",
+    "option1": " A blue background indicates a regulatory sign.",
+    "option2": "They give directional information.",
+    "option3": "Blue indicates road user services.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 435,
+    "question": "This road sign means:",
+    "option1": "Multiple Turns",
+    "option2": "Pedestrian Crossing",
+    "option3": "Winding road",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland435"
+  },
+  {
+    "questionNumber": 436,
+    "question": "An orange and red sign of this shape on a vehicle means:",
+    "option1": "Slow moving vehicle",
+    "option2": "The vehicle has the right of way",
+    "option3": "Construction zone ahead.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland436"
+  },
+  {
+    "questionNumber": 437,
+    "question": "When the road is slippery, you should:",
+    "option1": "pump your brakes.",
+    "option2": "brake suddenly carefully.",
+    "option3": "press your brakes in slow, steady strokes.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 438,
+    "question": "This road sign means:",
+    "option1": "Drivers are not allowed to in travel this direction",
+    "option2": "Take the next exit",
+    "option3": "Do not enter",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland438"
+  },
+  {
+    "questionNumber": 439,
+    "question": "Any individual under the age of _______ must ride in an appropriate child safety seat.",
+    "option1": "13",
+    "option2": "8",
+    "option3": "16",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 440,
+    "question": "When dust is blowing across the roadway making it difficult to see other vehicles, you should drive slower and turn on your:",
+    "option1": "headlights.",
+    "option2": "parking lights.",
+    "option3": "emergency flashers.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 441,
+    "question": "This sign means:",
+    "option1": "U-turns are not allowed.",
+    "option2": "Parking is not allowed.",
+    "option3": "No parking on pavement.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland441"
+  },
+  {
+    "questionNumber": 442,
+    "question": "Following another vehicle too closely is known as:",
+    "option1": "closetailing.",
+    "option2": "speedgating.",
+    "option3": "tailgating.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 443,
+    "question": "If a pedestrian is in the middle of the street when your signal light changes to green, you should:",
+    "option1": "proceed unless the pedestrian is in your lane.",
+    "option2": "wait until the pedestrian crosses the street before proceeding.",
+    "option3": "proceed because you have the right-of-way.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 444,
+    "question": "Drivers may cross a double yellow line to pass another vehicle if:",
+    "option1": "the yellow line next to the other side of the road is broken.",
+    "option2": "the yellow line next to their side of the road is broken.",
+    "option3": "the vehicle ahead moves to the right to let them pass.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 445,
+    "question": "This road sign means:",
+    "option1": "Sharp turn to the left",
+    "option2": "Winding road",
+    "option3": "Low shoulder",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland445"
+  },
+  {
+    "questionNumber": 446,
+    "question": "To drive defensively, you must:",
+    "option1": "anticipate errors by other drivers.",
+    "option2": "not check behind you through your mirrors.",
+    "option3": "assume that a driver who approaches a STOP sign on a side road is actually going to stop.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 447,
+    "question": "What is the slow moving vehicle symbol?",
+    "option1": "A reflective white triangle",
+    "option2": "A reflective yellow diamond",
+    "option3": "A reflective orange triangle",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 448,
+    "question": "This road sign means:",
+    "option1": "The center lane is shared for left turns in both directions of travel.",
+    "option2": "Vehicles may only travel in the center lane.",
+    "option3": "The center lane in both directions of travel will soon turn left.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland448"
+  },
+  {
+    "questionNumber": 449,
+    "question": "A person walking with a white cane or guide dog is likely to be:",
+    "option1": "a deaf person.",
+    "option2": "a blind person.",
+    "option3": "a traffic enforcement officer.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 450,
+    "question": "When being passed by another vehicle, drivers should:",
+    "option1": "maintain a constant speed.",
+    "option2": "slow down.",
+    "option3": "slightly increase their speed.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 451,
+    "question": "This road sign means:",
+    "option1": "Drivers must turn left on red",
+    "option2": "Drivers may not turn right on red",
+    "option3": "T intersection ahead",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland451"
+  },
+  {
+    "questionNumber": 452,
+    "question": "This sign means:",
+    "option1": "road construction.",
+    "option2": "lane ends, merge left.",
+    "option3": "narrow bridge ahead.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland452"
+  },
+  {
+    "questionNumber": 453,
+    "question": "___________ normally are white rectangles with black letters or symbols.",
+    "option1": "Regulation signs (regulatory signs)",
+    "option2": "Destination signs (guide signs)",
+    "option3": "Warning signs",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 454,
+    "question": "Driving at night is more dangerous because:",
+    "option1": "your reaction time is slower.",
+    "option2": "you cannot see as far ahead at night.",
+    "option3": "the road is more slippery.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 455,
+    "question": "What is the main reason night driving is more difficult than daytime driving?",
+    "option1": "Reduced visibility.",
+    "option2": "Driving within the range.",
+    "option3": "The use of headlight is required by law.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 456,
+    "question": "This sign tells drivers that:",
+    "option1": "a divided highway is ahead.",
+    "option2": "they cannot go straight ahead.",
+    "option3": "left and right turns are not allowed.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland456"
+  },
+  {
+    "questionNumber": 457,
+    "question": "Slowing down just to look at collisions or anything else out of ordinary:",
+    "option1": "improves traffic flow.",
+    "option2": "causes traffic congestion.",
+    "option3": "helps prevent rear-end collisions.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 458,
+    "question": "When a pedestrian carrying a white cane is at the corner ready to cross the street in front of you, before making your right turn, you should:",
+    "option1": "turn off the ignition until the person crosses the street.",
+    "option2": "yield the right-of-way and wait until the pedestrian crosses the street.",
+    "option3": "use your horn to help the pedestrian cross the street.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 459,
+    "question": "If a vehicle is coming towards you at night with its high beams on, making it hard to see the road ahead, you should:",
+    "option1": "look straight ahead towards the middle of the lane.",
+    "option2": "look ahead towards the right edge of your lane.",
+    "option3": "look ahead towards the left edge of your lane.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 460,
+    "question": "A yellow arrow means:",
+    "option1": "If you intend to turn in the direction of the arrow, be prepared to stop.",
+    "option2": "The same as a steady yellow light.",
+    "option3": "Do not go in the direction of the arrow.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 461,
+    "question": "When riding in a vehicle equipped with air bags is, children ages 12 and under are safer:",
+    "option1": "in the bed of a pick-up truck.",
+    "option2": "buckled up in the front seat.",
+    "option3": "buckled up in the back seat.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 462,
+    "question": "At intersections marked with stop lines, drivers must:",
+    "option1": "signal other vehicles to stop.",
+    "option2": "come to a complete stop.",
+    "option3": "slow down and enter the intersection.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 463,
+    "question": "A traffic sign with a red circle around and a slash over a symbol means:",
+    "option1": "the maneuver shown by the symbol is not allowed.",
+    "option2": "the maneuver shown on the sign should be executed with extreme caution.",
+    "option3": "Do not drive faster than the posted speed limit.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 464,
+    "question": "This road sign means:",
+    "option1": "Slippery when wet",
+    "option2": "Road curves ahead",
+    "option3": "Steep downgrade",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland464"
+  },
+  {
+    "questionNumber": 465,
+    "question": "This road sign means:",
+    "option1": "Turn left or go through",
+    "option2": "No right turn",
+    "option3": "One-way street ahead",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": "maryland465"
+  },
+  {
+    "questionNumber": 466,
+    "question": "When driving at night with no other vehicles ahead, a driver should use:",
+    "option1": "low-beam lights.",
+    "option2": "parking lights.",
+    "option3": "high beam lights.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 467,
+    "question": "Which statement about driving and drugs is true?",
+    "option1": "Prescription drugs are safe to use if they do not make you feel drowsy.",
+    "option2": "Only illegals drugs can impair your driving.",
+    "option3": "Even over the counter drugs can impair your driving.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 468,
+    "question": "What should you do if you see smoke come from under the hood?",
+    "option1": "Try to fight the fire yourself.",
+    "option2": "Call the fire department and then pull off the road and park your vehicle.",
+    "option3": "Pull off the road and park your vehicle. Turn off the ignition, get away from the car and call the fire department.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 469,
+    "question": "After parking, are you allowed to open a door on the road side of your vehicle?",
+    "option1": "No, never.",
+    "option2": "Yes, but only if it does not interfere with bicyclists and other traffic.",
+    "option3": "Yes, always.",
+    "option4": null,
+    "correctAnswer": 2,
+    "image": null
+  },
+  {
+    "questionNumber": 470,
+    "question": "When driving in a construction zone you should:",
+    "option1": "expect the unexpected.",
+    "option2": "slightly increase your speed.",
+    "option3": "come to a complete stop and check road conditions.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 471,
+    "question": "Blocking an intersection during rush hour traffic is not permitted:",
+    "option1": "under any circumstances.",
+    "option2": "unless you entered the intersection on a green light.",
+    "option3": "unless you have the right-of-way.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": null
+  },
+  {
+    "questionNumber": 472,
+    "question": "Before changing lanes or attempting to pass another vehicle, you should:",
+    "option1": "check your blind spots and, mirrors.",
+    "option2": "signal your intention before changing lanes.",
+    "option3": "All of the above.",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": null
+  },
+  {
+    "questionNumber": 473,
+    "question": "When they see this road sign, drivers should:",
+    "option1": "watch for this species crossing the road.",
+    "option2": "park in the zoo area.",
+    "option3": "drive carefully because the animal pictured on the sign is extremely rare in the area.",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland473"
+  },
+  {
+    "questionNumber": 474,
+    "question": "This road sign means:",
+    "option1": "Drive with caution and be ready to stop",
+    "option2": "Slow down or stop",
+    "option3": "You must come to a complete stop",
+    "option4": null,
+    "correctAnswer": 3,
+    "image": "maryland474"
+  },
+  {
+    "questionNumber": 475,
+    "question": "This road sign means:",
+    "option1": "Watch for bicycles",
+    "option2": "Bicycle parking ahead",
+    "option3": "Bicycles are not allowed in this area",
+    "option4": null,
+    "correctAnswer": 1,
+    "image": "maryland475"
+  }
+]
