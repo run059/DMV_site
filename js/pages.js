@@ -151,24 +151,7 @@ const Pages = {
                     </div>
                 </div>
 
-                <!-- Support Section (iOS Style) - Hidden for now -->
-                <div class="hidden glass rounded-3xl p-6 shadow-card border-2 border-transparent hover:border-yellow-500/30 transition-all duration-300">
-                    <div class="flex items-start space-x-4">
-                        <div class="flex-shrink-0">
-                            <div class="w-14 h-14 rounded-2xl bg-gradient-to-br from-yellow-400 via-orange-400 to-pink-500 flex items-center justify-center shadow-lg">
-                                <span class="text-3xl">☕</span>
-                            </div>
-                        </div>
-                        <div class="flex-1">
-                            <h3 class="text-lg font-bold text-gray-900 dark:text-white mb-1">Support the Developer</h3>
-                            <p class="text-sm text-gray-600 dark:text-gray-400 mb-3">Enjoying the app? Buy me a coffee to support continued development and new features!</p>
-                            <button onclick="alert('☕ Coffee support feature coming soon! Thank you for your interest!')" class="inline-flex items-center space-x-2 px-4 py-2 bg-gradient-to-r from-yellow-500 to-orange-500 text-white rounded-xl font-semibold shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300">
-                                <i class="fas fa-heart"></i>
-                                <span>Buy Me a Coffee</span>
-                            </button>
-                        </div>
-                    </div>
-                </div>
+                
 
                 <!-- Start Studying CTA -->
                 <button onclick="app.navigateTo('practice-tests')" class="w-full btn btn-primary text-lg py-4 rounded-2xl shadow-xl">
