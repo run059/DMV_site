@@ -3,20 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="DMV Practice Test - Prepare for your driver's license exam with AI-powered learning across all 50 US states">
-    <title>DMV Practice Test - Master Your Driver's License Exam</title>
+    <meta name="description" content="DMV Practice Test Support - Get help, contact us, and find answers to common questions">
+    <title>Support - DMV Practice Test</title>
 
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
 
-    <!-- Chart.js for statistics -->
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
-
     <!-- Font Awesome for icons -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="css/styles.css">
 
     <!-- Tailwind Config -->
     <script>
@@ -36,84 +30,51 @@
                             700: '#1d4ed8',
                             800: '#1e40af',
                             900: '#1e3a8a',
-                        },
-                        secondary: {
-                            50: '#f8fafc',
-                            100: '#f1f5f9',
-                            200: '#e2e8f0',
-                            300: '#cbd5e1',
-                            400: '#94a3b8',
-                            500: '#64748b',
-                            600: '#475569',
-                            700: '#334155',
-                            800: '#1e293b',
-                            900: '#0f172a',
-                        },
-                        accent: '#8b5cf6',
-                        success: '#10b981',
-                        warning: '#f59e0b',
-                        danger: '#ef4444',
-                    },
-                    fontFamily: {
-                        sans: ['-apple-system', 'BlinkMacSystemFont', 'SF Pro Display', 'Segoe UI', 'Roboto', 'sans-serif'],
-                        rounded: ['SF Pro Rounded', 'ui-rounded', 'rounded', 'sans-serif'],
-                    },
-                    borderRadius: {
-                        'xl': '1rem',
-                        '2xl': '1.5rem',
-                        '3xl': '2rem',
-                    },
-                    boxShadow: {
-                        'soft': '0 2px 15px -3px rgba(0, 0, 0, 0.07), 0 10px 20px -2px rgba(0, 0, 0, 0.04)',
-                        'card': '0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)',
+                        }
                     }
                 }
             }
         }
     </script>
 
-    <!-- Google AdSense -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX"
-     crossorigin="anonymous"></script>
+    <style>
+        .tab-btn.active {
+            background: linear-gradient(135deg, #3b82f6, #8b5cf6);
+            color: white;
+        }
+        .tab-content {
+            display: none;
+        }
+        .tab-content.active {
+            display: block;
+        }
+        .faq-answer {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease-out;
+        }
+        .faq-answer.active {
+            max-height: 500px;
+            transition: max-height 0.5s ease-in;
+        }
+    </style>
 </head>
-<body class="bg-gradient-to-br from-blue-50 via-white to-purple-50 dark:from-gray-900 dark:via-gray-800 dark:to-gray-900 min-h-screen font-sans">
-
-    <!-- Banner Ad Container -->
-    <div id="bannerAdContainer" class="w-full bg-gray-100 dark:bg-gray-800 flex justify-center py-2 sticky top-0 z-50 shadow-sm">
-        <!-- AdSense Banner will be inserted here -->
-        <div class="text-xs text-gray-500">Advertisement</div>
-    </div>
+<body class="bg-gray-100 dark:bg-gray-900 min-h-screen font-sans">
 
     <!-- Header -->
-    <header class="sticky top-10 z-40 bg-white/80 dark:bg-gray-900/80 backdrop-blur-md shadow-sm">
+    <header class="bg-white dark:bg-gray-800 shadow-sm">
         <div class="container mx-auto px-4 py-4">
             <div class="flex items-center justify-between">
                 <!-- Logo -->
-                <button onclick="app.navigateTo('home')" class="flex items-center space-x-3 hover:opacity-80 transition-opacity cursor-pointer">
-                    <div class="w-10 h-10 bg-gradient-to-br from-blue-500 to-purple-600 rounded-2xl flex items-center justify-center text-white font-bold text-xl shadow-lg">
+                <div class="flex items-center space-x-3">
+                    <div class="w-12 h-12 bg-gradient-to-br from-blue-500 to-purple-600 rounded-2xl flex items-center justify-center text-white font-bold text-xl shadow-lg">
                         <i class="fas fa-car"></i>
                     </div>
                     <div>
-                        <h1 class="text-xl font-bold text-gray-900 dark:text-white">DMV Test</h1>
-                        <p class="text-xs text-gray-500 dark:text-gray-400">Master Your License Exam</p>
+                        <h1 class="text-xl font-bold text-gray-900 dark:text-white">DMV Practice Test</h1>
+                        <p class="text-xs text-gray-500 dark:text-gray-400">Support Center</p>
                     </div>
-                </button>
-
-                <!-- Navigation -->
-                <nav class="hidden md:flex items-center space-x-6">
-                    <a href="#" data-page="home" class="nav-link text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 font-medium transition-colors">
-                        <i class="fas fa-home mr-2"></i>Home
-                    </a>
-                    <a href="#" data-page="ai-insights" class="nav-link text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 font-medium transition-colors">
-                        <i class="fas fa-brain mr-2"></i>AI Insights
-                    </a>
-                    <a href="#" data-page="statistics" class="nav-link text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 font-medium transition-colors">
-                        <i class="fas fa-chart-line mr-2"></i>Statistics
-                    </a>
-                    <a href="#" data-page="settings" class="nav-link text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 font-medium transition-colors">
-                        <i class="fas fa-cog mr-2"></i>Settings
-                    </a>
-                </nav>
+                </div>
 
                 <!-- Dark Mode Toggle -->
                 <button id="darkModeToggle" class="p-2 rounded-xl bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 transition-all">
@@ -124,52 +85,286 @@
         </div>
     </header>
 
-    <!-- Main Content Container -->
-    <main id="appContent" class="container mx-auto px-4 py-8">
-        <!-- Content will be dynamically loaded here -->
-    </main>
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 py-6 max-w-4xl">
 
-    <!-- Bottom Navigation (Mobile) -->
-    <nav class="md:hidden fixed bottom-0 left-0 right-0 bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-800 shadow-lg z-50">
-        <div class="flex items-center justify-around py-3">
-            <a href="#" data-page="home" class="mobile-nav-link flex flex-col items-center space-y-1 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
-                <i class="fas fa-home text-xl"></i>
-                <span class="text-xs font-medium">Home</span>
-            </a>
-            <a href="#" data-page="ai-insights" class="mobile-nav-link flex flex-col items-center space-y-1 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
-                <i class="fas fa-brain text-xl"></i>
-                <span class="text-xs font-medium">AI</span>
-            </a>
-            <a href="#" data-page="statistics" class="mobile-nav-link flex flex-col items-center space-y-1 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
-                <i class="fas fa-chart-line text-xl"></i>
-                <span class="text-xs font-medium">Stats</span>
-            </a>
-            <a href="#" data-page="settings" class="mobile-nav-link flex flex-col items-center space-y-1 text-gray-600 dark:text-gray-400 hover:text-blue-600 dark:hover:text-blue-400 transition-colors">
-                <i class="fas fa-cog text-xl"></i>
-                <span class="text-xs font-medium">Settings</span>
-            </a>
-        </div>
-    </nav>
-
-    <!-- Loading Overlay -->
-    <div id="loadingOverlay" class="fixed inset-0 bg-black/50 backdrop-blur-sm flex items-center justify-center z-50 hidden">
-        <div class="bg-white dark:bg-gray-800 rounded-3xl p-8 shadow-2xl">
-            <div class="flex flex-col items-center space-y-4">
-                <div class="w-16 h-16 border-4 border-blue-500 border-t-transparent rounded-full animate-spin"></div>
-                <p class="text-gray-700 dark:text-gray-300 font-medium">Loading...</p>
+        <!-- Tab Navigation -->
+        <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-2 mb-6">
+            <div class="flex space-x-2">
+                <button class="tab-btn active flex-1 py-3 px-4 rounded-xl font-semibold text-sm transition-all" data-tab="contact">
+                    <i class="fas fa-envelope mr-2"></i>Contact
+                </button>
+                <button class="tab-btn flex-1 py-3 px-4 rounded-xl font-semibold text-sm text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 transition-all" data-tab="faq">
+                    <i class="fas fa-question-circle mr-2"></i>FAQ
+                </button>
+                <button class="tab-btn flex-1 py-3 px-4 rounded-xl font-semibold text-sm text-gray-600 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700 transition-all" data-tab="troubleshoot">
+                    <i class="fas fa-wrench mr-2"></i>Troubleshoot
+                </button>
             </div>
         </div>
-    </div>
 
-    <!-- Toast Notification Container -->
-    <div id="toastContainer" class="fixed top-20 right-4 z-50 space-y-2"></div>
+        <!-- Contact Tab -->
+        <div id="contact" class="tab-content active">
+            <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-6 mb-6">
+                <div class="text-center mb-8">
+                    <div class="w-20 h-20 bg-gradient-to-br from-blue-500 to-purple-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <i class="fas fa-headset text-white text-3xl"></i>
+                    </div>
+                    <h2 class="text-2xl font-bold text-gray-900 dark:text-white mb-2">How Can We Help?</h2>
+                    <p class="text-gray-600 dark:text-gray-400">We're here to assist you with any questions or issues</p>
+                </div>
 
-    <!-- Core JavaScript Files -->
-    <script src="js/storage.js"></script>
-    <script src="js/ai-engine.js"></script>
-    <script src="js/quiz-engine.js"></script>
-    <script src="js/statistics.js"></script>
-    <script src="js/pages.js"></script>
-    <script src="js/app.js"></script>
+                <div class="space-y-4">
+                    <div class="bg-blue-50 dark:bg-gray-700 rounded-xl p-5">
+                        <div class="flex items-center mb-3">
+                            <i class="fas fa-envelope text-blue-600 text-xl mr-3"></i>
+                            <h3 class="font-semibold text-gray-900 dark:text-white">Email Support</h3>
+                        </div>
+                        <p class="text-gray-600 dark:text-gray-300 text-sm mb-3">Get help via email - we typically respond within 24 hours</p>
+                        <a href="mailto:run059@icloud.com" class="inline-flex items-center text-blue-600 dark:text-blue-400 font-medium hover:underline">
+                            <i class="fas fa-paper-plane mr-2"></i>
+                            run059@icloud.com
+                        </a>
+                    </div>
+
+                    <div class="bg-green-50 dark:bg-gray-700 rounded-xl p-5">
+                        <div class="flex items-center mb-3">
+                            <i class="fas fa-clock text-green-600 text-xl mr-3"></i>
+                            <h3 class="font-semibold text-gray-900 dark:text-white">Response Time</h3>
+                        </div>
+                        <p class="text-gray-600 dark:text-gray-300 text-sm">We aim to respond to all inquiries within 24-48 hours</p>
+                    </div>
+
+                    <div class="bg-purple-50 dark:bg-gray-700 rounded-xl p-5">
+                        <div class="flex items-center mb-3">
+                            <i class="fas fa-list-check text-purple-600 text-xl mr-3"></i>
+                            <h3 class="font-semibold text-gray-900 dark:text-white">What to Include</h3>
+                        </div>
+                        <ul class="text-gray-600 dark:text-gray-300 text-sm space-y-2">
+                            <li><i class="fas fa-check text-purple-600 mr-2"></i>Description of your issue</li>
+                            <li><i class="fas fa-check text-purple-600 mr-2"></i>Device type and iOS version</li>
+                            <li><i class="fas fa-check text-purple-600 mr-2"></i>Screenshots if applicable</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- FAQ Tab -->
+        <div id="faq" class="tab-content">
+            <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-6">
+                <h2 class="text-xl font-bold text-gray-900 dark:text-white mb-6 flex items-center">
+                    <i class="fas fa-question-circle text-blue-500 mr-3"></i>
+                    Frequently Asked Questions
+                </h2>
+
+                <div class="space-y-3">
+                    <!-- FAQ Item 1 -->
+                    <div class="faq-item border border-gray-200 dark:border-gray-700 rounded-xl overflow-hidden">
+                        <button class="faq-question w-full text-left p-4 flex items-center justify-between font-semibold text-gray-900 dark:text-white hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors">
+                            <span>How do I remove ads from the app?</span>
+                            <i class="fas fa-chevron-down transition-transform text-gray-400"></i>
+                        </button>
+                        <div class="faq-answer px-4 text-gray-600 dark:text-gray-300 text-sm">
+                            <p class="pb-4">Navigate to Settings in the app and select "Remove Ads". Make a one-time in-app purchase to enjoy an ad-free experience. The purchase is linked to your Apple ID.</p>
+                        </div>
+                    </div>
+
+                    <!-- FAQ Item 2 -->
+                    <div class="faq-item border border-gray-200 dark:border-gray-700 rounded-xl overflow-hidden">
+                        <button class="faq-question w-full text-left p-4 flex items-center justify-between font-semibold text-gray-900 dark:text-white hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors">
+                            <span>My purchase isn't working. What should I do?</span>
+                            <i class="fas fa-chevron-down transition-transform text-gray-400"></i>
+                        </button>
+                        <div class="faq-answer px-4 text-gray-600 dark:text-gray-300 text-sm">
+                            <ul class="pb-4 space-y-1">
+                                <li>• Make sure you're signed in to the App Store</li>
+                                <li>• Check that your payment method is valid</li>
+                                <li>• Try restarting the app and your device</li>
+                                <li>• Go to Settings > Restore Purchases</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- FAQ Item 3 -->
+                    <div class="faq-item border border-gray-200 dark:border-gray-700 rounded-xl overflow-hidden">
+                        <button class="faq-question w-full text-left p-4 flex items-center justify-between font-semibold text-gray-900 dark:text-white hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors">
+                            <span>How do I restore my previous purchases?</span>
+                            <i class="fas fa-chevron-down transition-transform text-gray-400"></i>
+                        </button>
+                        <div class="faq-answer px-4 text-gray-600 dark:text-gray-300 text-sm">
+                            <p class="pb-4">Go to Settings in the app and tap "Restore Purchases". This will restore any previous in-app purchases associated with your Apple ID at no additional cost.</p>
+                        </div>
+                    </div>
+
+                    <!-- FAQ Item 4 -->
+                    <div class="faq-item border border-gray-200 dark:border-gray-700 rounded-xl overflow-hidden">
+                        <button class="faq-question w-full text-left p-4 flex items-center justify-between font-semibold text-gray-900 dark:text-white hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors">
+                            <span>Which states are supported?</span>
+                            <i class="fas fa-chevron-down transition-transform text-gray-400"></i>
+                        </button>
+                        <div class="faq-answer px-4 text-gray-600 dark:text-gray-300 text-sm">
+                            <p class="pb-4">Our app supports DMV practice tests for all 50 US states. Select your state from the home screen to access state-specific questions.</p>
+                        </div>
+                    </div>
+
+                    <!-- FAQ Item 5 -->
+                    <div class="faq-item border border-gray-200 dark:border-gray-700 rounded-xl overflow-hidden">
+                        <button class="faq-question w-full text-left p-4 flex items-center justify-between font-semibold text-gray-900 dark:text-white hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors">
+                            <span>Can I use the app offline?</span>
+                            <i class="fas fa-chevron-down transition-transform text-gray-400"></i>
+                        </button>
+                        <div class="faq-answer px-4 text-gray-600 dark:text-gray-300 text-sm">
+                            <p class="pb-4">Yes! Once you've loaded the questions for your state, you can practice offline. Some features like AI insights require an internet connection.</p>
+                        </div>
+                    </div>
+
+                    <!-- FAQ Item 6 -->
+                    <div class="faq-item border border-gray-200 dark:border-gray-700 rounded-xl overflow-hidden">
+                        <button class="faq-question w-full text-left p-4 flex items-center justify-between font-semibold text-gray-900 dark:text-white hover:bg-gray-50 dark:hover:bg-gray-700 transition-colors">
+                            <span>Can I request a refund?</span>
+                            <i class="fas fa-chevron-down transition-transform text-gray-400"></i>
+                        </button>
+                        <div class="faq-answer px-4 text-gray-600 dark:text-gray-300 text-sm">
+                            <p class="pb-4">Refunds are handled through Apple. Go to reportaproblem.apple.com, sign in with your Apple ID, find your purchase, and select "Request a Refund".</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Troubleshoot Tab -->
+        <div id="troubleshoot" class="tab-content">
+            <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-6">
+                <h2 class="text-xl font-bold text-gray-900 dark:text-white mb-6 flex items-center">
+                    <i class="fas fa-wrench text-blue-500 mr-3"></i>
+                    Troubleshooting Guide
+                </h2>
+
+                <div class="space-y-4">
+                    <div class="border-l-4 border-blue-500 bg-blue-50 dark:bg-gray-700 rounded-r-xl p-4">
+                        <h3 class="font-semibold text-gray-900 dark:text-white mb-2">App crashes or freezes</h3>
+                        <ul class="text-gray-600 dark:text-gray-300 text-sm space-y-1">
+                            <li>• Update to the latest version of the app</li>
+                            <li>• Restart your device</li>
+                            <li>• Free up storage space</li>
+                            <li>• Update iOS to the latest version</li>
+                        </ul>
+                    </div>
+
+                    <div class="border-l-4 border-green-500 bg-green-50 dark:bg-gray-700 rounded-r-xl p-4">
+                        <h3 class="font-semibold text-gray-900 dark:text-white mb-2">Questions not loading</h3>
+                        <ul class="text-gray-600 dark:text-gray-300 text-sm space-y-1">
+                            <li>• Check your internet connection</li>
+                            <li>• Force close and reopen the app</li>
+                            <li>• Clear app cache in Settings</li>
+                            <li>• Reinstall the app if needed</li>
+                        </ul>
+                    </div>
+
+                    <div class="border-l-4 border-purple-500 bg-purple-50 dark:bg-gray-700 rounded-r-xl p-4">
+                        <h3 class="font-semibold text-gray-900 dark:text-white mb-2">Purchase not recognized</h3>
+                        <ul class="text-gray-600 dark:text-gray-300 text-sm space-y-1">
+                            <li>• Use "Restore Purchases" in Settings</li>
+                            <li>• Sign out and back into App Store</li>
+                            <li>• Wait a few minutes and try again</li>
+                            <li>• Contact us if issue persists</li>
+                        </ul>
+                    </div>
+
+                    <div class="border-l-4 border-orange-500 bg-orange-50 dark:bg-gray-700 rounded-r-xl p-4">
+                        <h3 class="font-semibold text-gray-900 dark:text-white mb-2">Statistics not updating</h3>
+                        <ul class="text-gray-600 dark:text-gray-300 text-sm space-y-1">
+                            <li>• Complete tests fully before exiting</li>
+                            <li>• Check you're using the same account</li>
+                            <li>• Sync from Settings > Sync Data</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Privacy & Terms Links -->
+        <div class="bg-white dark:bg-gray-800 rounded-2xl shadow-lg p-6 mt-6">
+            <div class="flex flex-col sm:flex-row gap-4">
+                <a href="https://sites.google.com/view/theory-policy" target="_blank" class="flex-1 flex items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-xl hover:bg-gray-100 dark:hover:bg-gray-600 transition-colors">
+                    <i class="fas fa-shield-alt text-blue-600 text-xl mr-3"></i>
+                    <div>
+                        <h3 class="font-semibold text-gray-900 dark:text-white text-sm">Privacy Policy</h3>
+                        <p class="text-xs text-gray-500 dark:text-gray-400">How we protect your data</p>
+                    </div>
+                </a>
+                <a href="https://sites.google.com/view/theory-policy" target="_blank" class="flex-1 flex items-center p-4 bg-gray-50 dark:bg-gray-700 rounded-xl hover:bg-gray-100 dark:hover:bg-gray-600 transition-colors">
+                    <i class="fas fa-file-contract text-purple-600 text-xl mr-3"></i>
+                    <div>
+                        <h3 class="font-semibold text-gray-900 dark:text-white text-sm">Terms of Service</h3>
+                        <p class="text-xs text-gray-500 dark:text-gray-400">Our terms and conditions</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 mt-8 py-6">
+        <div class="container mx-auto px-4 text-center">
+            <p class="text-gray-600 dark:text-gray-400 text-sm">&copy; 2025 DMV Practice Test. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script>
+        // Dark Mode Toggle
+        const darkModeToggle = document.getElementById('darkModeToggle');
+        const html = document.documentElement;
+
+        const currentTheme = localStorage.getItem('theme') || 'light';
+        if (currentTheme === 'dark') {
+            html.classList.add('dark');
+        }
+
+        darkModeToggle.addEventListener('click', () => {
+            html.classList.toggle('dark');
+            const theme = html.classList.contains('dark') ? 'dark' : 'light';
+            localStorage.setItem('theme', theme);
+        });
+
+        // Tab Navigation
+        const tabBtns = document.querySelectorAll('.tab-btn');
+        const tabContents = document.querySelectorAll('.tab-content');
+
+        tabBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                const tabId = btn.dataset.tab;
+
+                tabBtns.forEach(b => b.classList.remove('active'));
+                tabContents.forEach(c => c.classList.remove('active'));
+
+                btn.classList.add('active');
+                document.getElementById(tabId).classList.add('active');
+            });
+        });
+
+        // FAQ Accordion
+        const faqQuestions = document.querySelectorAll('.faq-question');
+
+        faqQuestions.forEach(question => {
+            question.addEventListener('click', () => {
+                const answer = question.nextElementSibling;
+                const icon = question.querySelector('i');
+
+                document.querySelectorAll('.faq-answer').forEach(item => {
+                    if (item !== answer) {
+                        item.classList.remove('active');
+                        item.previousElementSibling.querySelector('i').style.transform = 'rotate(0deg)';
+                    }
+                });
+
+                answer.classList.toggle('active');
+                icon.style.transform = answer.classList.contains('active') ? 'rotate(180deg)' : 'rotate(0deg)';
+            });
+        });
+    </script>
 </body>
 </html>
